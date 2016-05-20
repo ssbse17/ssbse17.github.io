@@ -1,10 +1,18 @@
-- title: Start
+- title: SSBSE
   url: "/"
   side: left
 
-- title: Getting Started
+- title: Submit
   url: "/getting-started/"
   side: left
+  
+- title: Dates
+  url: "/getting-started/"
+  side: left 
+  
+- title: Organization
+  url: "/getting-started/"
+  side: left    
 
 - title: "Templates"
   url: "/design/"
