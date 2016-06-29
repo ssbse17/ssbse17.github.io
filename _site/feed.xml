@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom"><generator uri="http://jekyllrb.com" version="3.1.6">Jekyll</generator><link href="/feed.xml" rel="self" type="application/atom+xml" /><link href="/" rel="alternate" type="text/html" /><updated>2016-06-29T16:09:50+01:00</updated><id>/</id><title>SSBSE&#39;17</title><subtitle>The SSBSE is the premier international research symposium on Search-based Software Engineering.</subtitle><author><name>{&quot;avatar&quot;=&gt;&quot;logo-ssbse-avatar.png&quot;, &quot;bio&quot;=&gt;&quot;The SSBSE is the premier international research symposium on Search-based Software Engineering.&quot;, &quot;location&quot;=&gt;&quot;Paderborn, Germany&quot;, &quot;email&quot;=&gt;nil, &quot;uri&quot;=&gt;nil, &quot;bitbucket&quot;=&gt;nil, &quot;codepen&quot;=&gt;nil, &quot;dribbble&quot;=&gt;nil, &quot;flickr&quot;=&gt;nil, &quot;facebook&quot;=&gt;nil, &quot;foursquare&quot;=&gt;nil, &quot;github&quot;=&gt;nil, &quot;google_plus&quot;=&gt;nil, &quot;keybase&quot;=&gt;nil, &quot;instagram&quot;=&gt;nil, &quot;lastfm&quot;=&gt;nil, &quot;linkedin&quot;=&gt;nil, &quot;pinterest&quot;=&gt;nil, &quot;soundcloud&quot;=&gt;nil, &quot;stackoverflow&quot;=&gt;nil, &quot;steam&quot;=&gt;nil, &quot;tumblr&quot;=&gt;nil, &quot;twitter&quot;=&gt;nil, &quot;vine&quot;=&gt;nil, &quot;weibo&quot;=&gt;nil, &quot;xing&quot;=&gt;nil, &quot;youtube&quot;=&gt;nil}</name></author><entry><title>Conference Venue</title><link href="/conference-venue/" rel="alternate" type="text/html" title="Conference Venue" /><published>2016-06-28T00:00:00+01:00</published><updated>2016-06-28T00:00:00+01:00</updated><id>/conference-venue</id><content type="html" xml:base="/conference-venue/">&lt;p&gt;Parderborn is great!!!&lt;/p&gt;</content><author><name>{&quot;avatar&quot;=&gt;&quot;logo-ssbse-avatar.png&quot;, &quot;bio&quot;=&gt;&quot;The SSBSE is the premier international research symposium on Search-based Software Engineering.&quot;, &quot;location&quot;=&gt;&quot;Paderborn, Germany&quot;, &quot;email&quot;=&gt;nil, &quot;uri&quot;=&gt;nil, &quot;bitbucket&quot;=&gt;nil, &quot;codepen&quot;=&gt;nil, &quot;dribbble&quot;=&gt;nil, &quot;flickr&quot;=&gt;nil, &quot;facebook&quot;=&gt;nil, &quot;foursquare&quot;=&gt;nil, &quot;github&quot;=&gt;nil, &quot;google_plus&quot;=&gt;nil, &quot;keybase&quot;=&gt;nil, &quot;instagram&quot;=&gt;nil, &quot;lastfm&quot;=&gt;nil, &quot;linkedin&quot;=&gt;nil, &quot;pinterest&quot;=&gt;nil, &quot;soundcloud&quot;=&gt;nil, &quot;stackoverflow&quot;=&gt;nil, &quot;steam&quot;=&gt;nil, &quot;tumblr&quot;=&gt;nil, &quot;twitter&quot;=&gt;nil, &quot;vine&quot;=&gt;nil, &quot;weibo&quot;=&gt;nil, &quot;xing&quot;=&gt;nil, &quot;youtube&quot;=&gt;nil}</name></author><summary>SSBSE&#39;17 will be hosted in Paderborn, Germany.</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="{&quot;feature&quot;=&gt;&quot;parderborn.jpg&quot;}" /></entry><entry><title>Call for Papers</title><link href="/call-for-papers/" rel="alternate" type="text/html" title="Call for Papers" /><published>2016-06-27T00:00:00+01:00</published><updated>2016-06-27T00:00:00+01:00</updated><id>/call-for-papers</id><content type="html" xml:base="/call-for-papers/">&lt;p&gt;&lt;b&gt;9th International Symposium on Search Based Software Engineering (SSBSE 2017)&lt;br /&gt;
+co-located with ESEC/FSE’17 Paderborn, Germany, September 9-11, 2017 &lt;br /&gt;
+http://ssbse17.github.io &lt;/b&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Research Paper Track&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;We invite the submission of high quality papers describing novel and original work in all areas of Search-Based Software Engineering including, but not limited to&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;applications of SBSE to novel problems,&lt;/li&gt;
+  &lt;li&gt;theoretical analyses of search algorithms for software engineering,&lt;/li&gt;
+  &lt;li&gt;rigorous empirical evaluations of SBSE techniques,&lt;/li&gt;
+  &lt;li&gt;reports of industrial experiences.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;SSBSE welcomes not only applications from throughout the software engineering lifecycle but also a broad range of search methods ranging from:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;exact Operational Research techniques to&lt;/li&gt;
+  &lt;li&gt;nature-inspired algorithms and simulated annealing.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;We particularly encourage papers that report on software engineering applications to which SBSE has not been applied before.&lt;/p&gt;
+
+&lt;p&gt;Research papers must have up to 15 pages in length, including all text, figures, references and appendices.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Short Paper Track&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;We also invite short papers presenting new ideas, tools, experience reports, or novel techniques and ideas, which will be included in the proceedings and presented at the symposium. Papers submitted to this track should not exceed 6 pages in length using the regular symposium format.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Graduate Student Track&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;We also invite students to submit papers to a special Graduate Student track. This track gives students the opportunity to showcase their SBSE research and receive feedback from senior members of the SBSE community. Papers submitted to this track should not exceed 6 pages in length using the regular symposium format. To be eligible, papers should be primarily the work of students currently registered on a doctoral or master program that have not yet completed their studies. The paper may have co-authors who are not students but the student author is expected to present the paper at the symposium.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;SBSE Challenge Track&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;We challenge everyone interested in SBSE to apply tools, techniques, and algorithms to our selected problems. We want you to apply your SBSE expertise to do interesting things to or with the software and uncover interesting things related to it. The best competition entries will be awarded special prizes. Challenge papers should not exceed 6 pages in length using the regular symposium format. More details about the track will be announced on the website.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Conference Proceedings&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Accepted papers will be published in a volume of the Springer Lecture Notes in Computer Science series (LNCS).&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Best Paper Awards and Travel Grants&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Research and Student papers accepted for presentation at SSBSE 2017 will be considered for prizes. More details about prizes and travel grants will be announced on the website.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Special Issue for Best Papers&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;The authors of best selected papers will be invited to submit extended versions of their papers for a special section in the XX (IST).&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Key Dates&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;RESEARCH PAPER TRACK:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Abstract submission                      March 31, 2017&lt;/li&gt;
+  &lt;li&gt;Paper Submission                            April 7, 2017&lt;/li&gt;
+  &lt;li&gt;Notification                                     May 14, 2017&lt;/li&gt;
+  &lt;li&gt;Camera Ready                                June 14, 2017&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;SHORT PAPER, GRADUATE STUDENT, AND SBSE CHALLENGE TRACKS:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Submission                                    May 21, 2017&lt;/li&gt;
+  &lt;li&gt;Notification                                    June 7, 2017&lt;/li&gt;
+  &lt;li&gt;Camera ready: XXX&lt;/li&gt;
+&lt;/ul&gt;</content><author><name>{&quot;avatar&quot;=&gt;&quot;logo-ssbse-avatar.png&quot;, &quot;bio&quot;=&gt;&quot;The SSBSE is the premier international research symposium on Search-based Software Engineering.&quot;, &quot;location&quot;=&gt;&quot;Paderborn, Germany&quot;, &quot;email&quot;=&gt;nil, &quot;uri&quot;=&gt;nil, &quot;bitbucket&quot;=&gt;nil, &quot;codepen&quot;=&gt;nil, &quot;dribbble&quot;=&gt;nil, &quot;flickr&quot;=&gt;nil, &quot;facebook&quot;=&gt;nil, &quot;foursquare&quot;=&gt;nil, &quot;github&quot;=&gt;nil, &quot;google_plus&quot;=&gt;nil, &quot;keybase&quot;=&gt;nil, &quot;instagram&quot;=&gt;nil, &quot;lastfm&quot;=&gt;nil, &quot;linkedin&quot;=&gt;nil, &quot;pinterest&quot;=&gt;nil, &quot;soundcloud&quot;=&gt;nil, &quot;stackoverflow&quot;=&gt;nil, &quot;steam&quot;=&gt;nil, &quot;tumblr&quot;=&gt;nil, &quot;twitter&quot;=&gt;nil, &quot;vine&quot;=&gt;nil, &quot;weibo&quot;=&gt;nil, &quot;xing&quot;=&gt;nil, &quot;youtube&quot;=&gt;nil}</name></author><summary>CfP for the Symposium on Search-based Software Engineering.</summary></entry><entry><title>Annoucement</title><link href="/annoucement/" rel="alternate" type="text/html" title="Annoucement" /><published>2016-06-01T00:00:00+01:00</published><updated>2016-06-01T00:00:00+01:00</updated><id>/annoucement</id><content type="html" xml:base="/annoucement/">&lt;p&gt;SSBSE 2017 has just been announced.&lt;/p&gt;</content><author><name>{&quot;avatar&quot;=&gt;&quot;logo-ssbse-avatar.png&quot;, &quot;bio&quot;=&gt;&quot;The SSBSE is the premier international research symposium on Search-based Software Engineering.&quot;, &quot;location&quot;=&gt;&quot;Paderborn, Germany&quot;, &quot;email&quot;=&gt;nil, &quot;uri&quot;=&gt;nil, &quot;bitbucket&quot;=&gt;nil, &quot;codepen&quot;=&gt;nil, &quot;dribbble&quot;=&gt;nil, &quot;flickr&quot;=&gt;nil, &quot;facebook&quot;=&gt;nil, &quot;foursquare&quot;=&gt;nil, &quot;github&quot;=&gt;nil, &quot;google_plus&quot;=&gt;nil, &quot;keybase&quot;=&gt;nil, &quot;instagram&quot;=&gt;nil, &quot;lastfm&quot;=&gt;nil, &quot;linkedin&quot;=&gt;nil, &quot;pinterest&quot;=&gt;nil, &quot;soundcloud&quot;=&gt;nil, &quot;stackoverflow&quot;=&gt;nil, &quot;steam&quot;=&gt;nil, &quot;tumblr&quot;=&gt;nil, &quot;twitter&quot;=&gt;nil, &quot;vine&quot;=&gt;nil, &quot;weibo&quot;=&gt;nil, &quot;xing&quot;=&gt;nil, &quot;youtube&quot;=&gt;nil}</name></author><summary>SSBSE&#39;17 announcement.</summary></entry></feed>
