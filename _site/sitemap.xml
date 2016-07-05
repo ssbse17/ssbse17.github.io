@@ -19,6 +19,9 @@
 <loc>/</loc>
 </url>
 <url>
+<loc>/submissions/</loc>
+</url>
+<url>
 <loc>/conference_venue/</loc>
 </url>
 <url>
@@ -26,5 +29,8 @@
 </url>
 <url>
 <loc>/cfp/</loc>
+</url>
+<url>
+<loc>/organization/</loc>
 </url>
 </urlset>

@@ -9,5 +9,14 @@ main:
   - title: "Conference Venue"
     url: ../conference_venue
 
+  - title: "Submissions"
+    url: ../submissions
+
+  - title: "Organization"
+    url: ../organization
+
+  - title: "Sponsors"
+    url: ../sponsors
+
   - title: "About"
     url: ../about
