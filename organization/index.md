@@ -1,4 +1,4 @@
----
+﻿---
 layout: archive
 author_profile: true
 title: "Organization"
@@ -6,7 +6,7 @@ title: "Organization"
 
 <h1 style="text-align: center;" markdown="1">General Chair</h1>
 
-![image-center](/images/blank_photo.jpg){: .align-center}
+![image-center](/images/lars.jpg){: .align-center}
 <h3 style="text-align: center;" markdown="1">Lars Grunske</h3>
 <center>Humboldt University of Berlin</center>
 
