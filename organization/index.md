@@ -1,4 +1,4 @@
-﻿---
+---
 layout: archive
 author_profile: true
 title: "Organization"
