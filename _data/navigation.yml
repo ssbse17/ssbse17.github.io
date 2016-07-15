@@ -12,8 +12,8 @@ main:
   - title: "Submissions"
     url: ../submissions
 
-  - title: "Organization"
-    url: ../organization
+  - title: "Team"
+    url: ../team
 
   - title: "Sponsors Invitation"
     url: ../sponsors_invitation
