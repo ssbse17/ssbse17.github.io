@@ -68,3 +68,9 @@ RESEARCH PAPER TRACK:
  - Submission                                    May 21, 2017
  - Notification                                    June 7, 2017
  - Camera ready: XXX
+
+Submission site:
+
+**GENERAL INFORMATION AND FORMAT**
+
+text, text..
