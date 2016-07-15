@@ -58,7 +58,7 @@ title: "Team"
 
 ---
 
-<h1 style="text-align: left;" markdown="1">Steering Commitee</h1>
+<h1 style="text-align: left;" markdown="1">Steering Committee</h1>
 
 Andrea Arcuri, Scienta - University of Luxembourg, Norway   
 Claire Le Goues, Carnegie Mellon University, USA   
@@ -73,7 +73,7 @@ Yuanyuan Zhang, University College London, UK (until 2016)
 
 ---
 
-<h1 style="text-align: left;" markdown="1">Program Commitee</h1>
+<h1 style="text-align: left;" markdown="1">Program Committee</h1>
 
 Alessandra Gorla, IMDEA Software Institute             
 Alessandro Marchetto, Fondazione Bruno Kessler, Trento, Italy       
