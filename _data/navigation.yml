@@ -15,8 +15,8 @@ main:
   - title: "Organization"
     url: ../organization
 
-  - title: "Sponsors"
-    url: ../sponsors
+  - title: "Sponsors Invitation"
+    url: ../sponsors_invitation
 
   - title: "About"
     url: ../about
