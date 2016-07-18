@@ -71,6 +71,8 @@ RESEARCH PAPER TRACK:
 
 Submission site:
 
+<a href="https://easychair.org/account/signin.cgi?key=40759349.WchbrTn9c31v0OQS" target="_blank" class="btn">Submit Here</a>
+
 **GENERAL INFORMATION AND FORMAT**
 
 text, text..
