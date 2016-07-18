@@ -1,5 +1,5 @@
 ---
-layout: archive_cfp
+layout: archive_smaller_font
 author_profile: true
 title: "Call for Papers"
 ---
@@ -67,10 +67,4 @@ RESEARCH PAPER TRACK:
  - Notification                                    June 7, 2017
  - Camera ready: XXX
 
-Submission site:
-
-<a href="https://easychair.org/account/signin.cgi?key=40759349.WchbrTn9c31v0OQS" target="_blank" class="btn">Submit Here</a>
-
-**GENERAL INFORMATION AND FORMAT**
-
-text, text..
+Submission site: <a href="https://easychair.org/conferences/?conf=ssbse2017" target="_blank">https://easychair.org/conferences/?conf=ssbse2017</a>
