@@ -1,5 +1,5 @@
 ---
-layout: archive
+layout: archive_cfp
 author_profile: true
 title: "Call for Papers"
 ---

@@ -1,5 +1,5 @@
 ---
-layout: single
+layout: single_cfp
 author_profile: true
 title: "Call for Papers"
 excerpt: "CfP for the Symposium on Search-based Software Engineering."
