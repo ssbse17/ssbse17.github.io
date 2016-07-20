@@ -17,7 +17,7 @@ title: "Team"
 <h1 style="text-align: center;" markdown="1">Program Chairs</h1>
 
 ![image-center](/images/tim.jpg){: .align-center}
-<h3 class="person" markdown="1"><a href="https://www.csc.ncsu.edu/people/tjmenzie" target="_blank">Tim Menzies</a></h3>
+<h3 class="person" markdown="1"><a href="http://menzies.us/" target="_blank">Tim Menzies</a></h3>
 <center>North Carolina State University</center>
 
 ![image-center](/images/justyna.jpg){: .align-center}
@@ -39,6 +39,10 @@ title: "Team"
 ![image-center](/images/tanja.png){: .align-center}
 <h3 class="person" markdown="1"><a href="http://tanjavos.com/" target="_blank">Tanja Vos</a></h3>
 <center>University of Valencia</center>
+
+![image-center](/images/david.jpg){: .align-center}
+<h3 class="person" markdown="1"><a href="http://www.davidrwhite.co.uk/" target="_blank">David White</a></h3>
+<center>University College London</center>
 
 ---
 
