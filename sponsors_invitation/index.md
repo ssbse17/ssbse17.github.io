@@ -6,7 +6,7 @@ title: "Invitation to sponsor SSBSE'17"
 
 <link rel="stylesheet" href="../css/sponsors.css">
 
-SSBSE is the premier international research symposium on Search-based Software Engineering...
+SSBSE is the premier international research symposium on Search-based Software Engineering.
 
 Benefits and prices for six support levels are listed in the table below. Additional benefits or support levels may be negotiated. Please contact Lars Grunske.
 
