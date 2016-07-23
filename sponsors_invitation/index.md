@@ -8,7 +8,7 @@ title: "Invitation to sponsor SSBSE'17"
 
 SSBSE is the premier international research symposium on Search-based Software Engineering...
 
-Benefits and prices for six support levels are listed in the table below. Additional benefits or support levels may be negotiated. Please contact...
+Benefits and prices for six support levels are listed in the table below. Additional benefits or support levels may be negotiated. Please contact Lars Grunske.
 
 <table id="sponsors-table">
    <thead>
