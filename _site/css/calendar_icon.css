@@ -3,11 +3,11 @@ time.calendar_icon
      font-size: 1em; /* change icon size */
        display: block;
          position: relative;
-           width: 7em;
-             height: 7em;
+           width: 5em;
+             height: 5em;
                background-color: #fff;
-                 margin: 2em auto;
-                   border-radius: 0.6em;
+                 margin: 1em auto;
+                   border-radius: 0.4em;
                      box-shadow: 0 1px 0 #bdbdbd, 0 2px 0 #fff, 0 3px 0 #bdbdbd, 0 4px 0 #fff, 0 5px 0 #bdbdbd, 0 0 0 1px #bdbdbd;
                        overflow: hidden;
                          -webkit-backface-visibility: hidden;
@@ -20,7 +20,7 @@ time.calendar_icon *
 {
      display: block;
        width: 100%;
-         font-size: 1em;
+         font-size: 0.8em;
            font-weight: bold;
              font-style: normal;
                text-align: center;
@@ -30,7 +30,7 @@ time.calendar_icon strong
 {
      position: absolute;
        top: 0;
-         padding: 0.4em 0;
+         padding: 0.3em 0;
            color: #fff;
              background-color: #fd9f1b;
                border-bottom: 1px dashed #f37302;
@@ -40,16 +40,16 @@ time.calendar_icon strong
 time.calendar_icon em
 {
      position: absolute;
-       bottom: 0.3em;
+       bottom: 0.2em;
          color: #fd9f1b;
 }
 
 time.calendar_icon span
 {
      width: 100%;
-       font-size: 2.8em;
+       font-size: 2.0em;
          letter-spacing: -0.05em;
-           padding-top: 0.8em;
+           padding-top: 0.7em;
              color: #2f2f2f;
 }
 
