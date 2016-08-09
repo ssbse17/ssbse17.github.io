@@ -54,6 +54,14 @@ title: "Team"
 
 ---
 
+<h1 style="text-align: center;" markdown="1">Publicity Chair</h1>
+
+![image-center](/images/gregory.jpg){: .align-center}
+<h3 class="person" markdown="1"><a href="http://www.greggay.com/" target="_blank">Gregory Gay</a></h3>
+<center>University of South California</center>
+
+---
+
 <h1 style="text-align: center;" markdown="1">Web Chair</h1>
 
 ![image-center](/images/matheus.jpg){: .align-center}
