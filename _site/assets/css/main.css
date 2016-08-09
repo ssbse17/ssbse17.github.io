@@ -1979,7 +1979,7 @@ display:table-cell;
 vertical-align:top;
 width:36px;
 height:36px}
-@media (min-width: 64em){
+@media (min-width: 110px){
 .author__avatar{
 display:block;
 width:auto;
@@ -1988,7 +1988,7 @@ height:auto}
 .author__avatar img{
 max-width:110px;
 border-radius:50%}
-@media (min-width: 64em){
+@media (min-width: 110px){
 .author__avatar img{
 padding:5px;
 border:1px solid #f2f3f3}

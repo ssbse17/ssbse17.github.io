@@ -1,10 +1,13 @@
 # main links links
 main:
-  - title: "Call for Papers"
-    url: ../cfp
+  - title: "Submit"
+    url: ../submit
 
-  - title: "Submission"
-    url: ../submission
+  - title: "Keynotes"
+    url: ../keynotes
+
+  - title: "Program"
+    url: ../program
 
   - title: "Venue"
     url: ../venue
@@ -12,5 +15,5 @@ main:
   - title: "Team"
     url: ../team
 
-  - title: "Sponsors Invitation"
-    url: ../sponsors_invitation
+  - title: "Sponsors"
+    url: ../sponsors
