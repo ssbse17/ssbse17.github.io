@@ -14,47 +14,68 @@ Benefits and prices for four support levels are listed in the table below. Addit
    <thead>
       <tr>
          <th class="sponsors-table-header sponsors-table-header-benefits">Benefits</th>
-         <th class="sponsors-table-header sponsors-table-header-platinum">Platinum <br /> &#8364; value</th>
-         <th class="sponsors-table-header sponsors-table-header-gold">Gold <br /> &#8364; value</th>
-         <th class="sponsors-table-header sponsors-table-header-silver">Silver <br /> &#8364; value</th>
-         <th class="sponsors-table-header sponsors-table-header-bronze">Bronze <br /> &#8364; value</th>
+         <th class="sponsors-table-header sponsors-table-header-platinum">Platinum <br /> 10,000&#8364; value</th>
+         <th class="sponsors-table-header sponsors-table-header-gold">Gold <br /> 5,000&#8364; value</th>
+         <th class="sponsors-table-header sponsors-table-header-silver">Silver <br /> 2,500&#8364; value</th>
+         <th class="sponsors-table-header sponsors-table-header-bronze">Bronze <br /> 1,000&#8364; value</th>
       </tr>
    </thead>
    <tbody>
       <tr>
-         <td>Complementary conference or workshop registrations</td>
+         <td>Complementary symposium registrations</td>
          <td class="content-cell included-cell">3</td>
          <td class="content-cell included-cell">2</td>
          <td class="content-cell included-cell">1</td>
-         <td class="content-cell">0</td>
+         <td class="content-cell">1</td>
       </tr>
       <tr>
-         <td>Benefit 2</td>
+         <td>Five-minute plenary session welcome to attendees</td>
          <td class="content-cell included-cell">Yes</td>
-         <td class="content-cell">No</td>
+         <td class="content-cell">Yes</td>
          <td class="content-cell">No</td>
          <td class="content-cell">No</td>
       </tr>
       <tr>
-         <td class="additional-packages-cell no-borders-cell">Additional Packages</td>
+         <td>Add promotional materials (flyer, brochures) to the attendee bags</td>
+         <td class="content-cell included-cell">Yes</td>
+         <td class="content-cell">Yes</td>
+         <td class="content-cell">Yes</td>
+         <td class="content-cell">No</td>
+      </tr>
+      <tr>
+         <td>Logo on conference promo materials </td>
+         <td class="content-cell included-cell">Yes</td>
+         <td class="content-cell">Yes</td>
+         <td class="content-cell">Yes</td>
+         <td class="content-cell">Yes</td>
+      </tr>
+      <tr>
+         <td>Logo on conference webside</td>
+         <td class="content-cell included-cell">Large</td>
+         <td class="content-cell">Medium</td>
+         <td class="content-cell">Medium</td>
+         <td class="content-cell">Small</td>
+      </tr>
+      <tr>
+         <td class="additional-packages-cell no-borders-cell">Additional Packages (not restricted to the Platinum, Gold, Siver and Bronze level coporate sponsoring scheme)</td>
          <td class="no-borders-cell"> </td>
          <td class="no-borders-cell"> </td>
          <td class="no-borders-cell"> </td>
          <td class="no-borders-cell"> </td>
       </tr>
       <tr>
-         <td>Additional Package 1</td>
-         <td class="content-cell"> </td>
-         <td class="content-cell"> </td>
-         <td class="content-cell"> </td>
-         <td class="content-cell"> </td>
+         <td>Conference dinner package (5,000&#8364)</td>
+         <td class="content-cell"> Add-on</td>
+         <td class="content-cell"> Add-on</td>
+         <td class="content-cell"> Add-on</td>
+         <td class="content-cell"> Add-on</td>
       </tr>
       <tr>
-         <td>Additional Package 2</td>
-         <td class="content-cell"> </td>
-         <td class="content-cell"> </td>
-         <td class="content-cell"> </td>
-         <td class="content-cell"> </td>
+         <td>SBSE challenge track sponsoring (1,000&#8364)</td>
+         <td class="content-cell"> Add-on</td>
+         <td class="content-cell"> Add-on</td>
+         <td class="content-cell"> Add-on</td>
+         <td class="content-cell"> Add-on</td>
       </tr>
    </tbody>
 </table>
