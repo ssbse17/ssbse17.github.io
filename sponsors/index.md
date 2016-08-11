@@ -26,52 +26,67 @@ Benefits and prices for four support levels are listed in the table below. Addit
          <td class="content-cell included-cell">3</td>
          <td class="content-cell included-cell">2</td>
          <td class="content-cell included-cell">1</td>
-         <td class="content-cell">1</td>
+         <td class="content-cell included-cell">1</td>
+      </tr>
+      <tr>
+         <td>Sponsoring a keynote session</td>
+         <td class="content-cell included-cell">Yes</td>
+         <td class="content-cell">No</td>
+         <td class="content-cell">No</td>
+         <td class="content-cell">No</td>
       </tr>
       <tr>
          <td>Five-minute plenary session welcome to attendees</td>
          <td class="content-cell included-cell">Yes</td>
-         <td class="content-cell">Yes</td>
+         <td class="content-cell included-cell">Yes</td>
          <td class="content-cell">No</td>
          <td class="content-cell">No</td>
       </tr>
       <tr>
          <td>Add promotional materials (flyer, brochures) to the attendee bags</td>
          <td class="content-cell included-cell">Yes</td>
-         <td class="content-cell">Yes</td>
-         <td class="content-cell">Yes</td>
+         <td class="content-cell included-cell">Yes</td>
+         <td class="content-cell included-cell">Yes</td>
          <td class="content-cell">No</td>
       </tr>
       <tr>
          <td>Logo on conference promo materials </td>
          <td class="content-cell included-cell">Yes</td>
-         <td class="content-cell">Yes</td>
-         <td class="content-cell">Yes</td>
-         <td class="content-cell">Yes</td>
+         <td class="content-cell included-cell">Yes</td>
+         <td class="content-cell included-cell">Yes</td>
+         <td class="content-cell included-cell">Yes</td>
       </tr>
       <tr>
-         <td>Logo on conference webside</td>
+         <td>Logo on conference website</td>
          <td class="content-cell included-cell">Large</td>
-         <td class="content-cell">Medium</td>
-         <td class="content-cell">Medium</td>
-         <td class="content-cell">Small</td>
+         <td class="content-cell included-cell">Medium</td>
+         <td class="content-cell included-cell">Medium</td>
+         <td class="content-cell included-cell">Small</td>
       </tr>
       <tr>
-         <td class="additional-packages-cell no-borders-cell">Additional Packages (not restricted to the Platinum, Gold, Siver and Bronze level coporate sponsoring scheme)</td>
+         <td class="additional-packages-cell no-borders-cell">Additional Packages (not restricted to the Platinum, Gold, Silver and Bronze level corporate sponsoring scheme)</td>
          <td class="no-borders-cell"> </td>
          <td class="no-borders-cell"> </td>
          <td class="no-borders-cell"> </td>
          <td class="no-borders-cell"> </td>
       </tr>
       <tr>
-         <td>Conference dinner package (5,000&#8364)</td>
+         <td>Conference dinner package (5,000&#8364;)</td>
          <td class="content-cell"> Add-on</td>
          <td class="content-cell"> Add-on</td>
          <td class="content-cell"> Add-on</td>
          <td class="content-cell"> Add-on</td>
       </tr>
       <tr>
-         <td>SBSE challenge track sponsoring (1,000&#8364)</td>
+         <td>SBSE graduate student track sponsoring (to be negotiated, includes registration and travel arrangements for graduate students attending the track)</td>
+         <td class="content-cell"> Add-on</td>
+         <td class="content-cell"> Add-on</td>
+         <td class="content-cell"> Add-on</td>
+         <td class="content-cell"> Add-on</td>
+      </tr>
+   
+      <tr>
+         <td>SBSE challenge track sponsoring (1,000&#8364;)</td>
          <td class="content-cell"> Add-on</td>
          <td class="content-cell"> Add-on</td>
          <td class="content-cell"> Add-on</td>
