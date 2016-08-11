@@ -14,10 +14,10 @@ Benefits and prices for four support levels are listed in the table below. Addit
    <thead>
       <tr>
          <th class="sponsors-table-header sponsors-table-header-benefits">Benefits</th>
-         <th class="sponsors-table-header sponsors-table-header-platinum">Platinum <br /> 10,000&#8364; value</th>
-         <th class="sponsors-table-header sponsors-table-header-gold">Gold <br /> 5,000&#8364; value</th>
-         <th class="sponsors-table-header sponsors-table-header-silver">Silver <br /> 2,500&#8364; value</th>
-         <th class="sponsors-table-header sponsors-table-header-bronze">Bronze <br /> 1,000&#8364; value</th>
+         <th class="sponsors-table-header sponsors-table-header-platinum">Platinum <br /> 10,000&#8364;</th>
+         <th class="sponsors-table-header sponsors-table-header-gold">Gold <br /> 5,000&#8364;</th>
+         <th class="sponsors-table-header sponsors-table-header-silver">Silver <br /> 2,500&#8364;</th>
+         <th class="sponsors-table-header sponsors-table-header-bronze">Bronze <br /> 1,000&#8364;</th>
       </tr>
    </thead>
    <tbody>

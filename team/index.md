@@ -46,6 +46,13 @@ title: "Team"
 
 ---
 
+<h1 style="text-align: center;" markdown="1">Local Arrangement Chair</h1>
+
+![image-center](/images/uwe.jpg){: .align-center}
+<h3 class="person" markdown="1"><a href="https://www.hni.uni-paderborn.de/swt/mitarbeiter/130201625100101/" target="_blank">Uwe Pohlmann</a></h3>
+<center>University of Paderborn</center>
+
+---
 <h1 style="text-align: center;" markdown="1">Proceedings Chair</h1>
 
 ![image-center](/images/sinem.jpg){: .align-center}
