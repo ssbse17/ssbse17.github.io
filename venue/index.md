@@ -14,7 +14,7 @@ The conference will be held in the world largest computer museum: the Heinz Nixd
 In addtion, parts of the program will be located in the neighbouring university buildings.
 				
 
-###The Region of Eastern Westphalia (Ostwestfalen-Lippe)
+### The Region of Eastern Westphalia (Ostwestfalen-Lippe)
 ![image-rathaus](/images/venue/externsteine).png){: .align-center}
 <span style="font-size: 10px">Tuxyso / [Wikimedia Commons](http://https://commons.wikimedia.org/wiki/Main_Page "Wikimedia Commons"), [CC BY-SA 3.0](http://creativecommons.org/licenses/by-sa/3.0 "CC BY-SA 3.0")</span>
 
