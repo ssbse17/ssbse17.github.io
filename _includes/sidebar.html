@@ -5,14 +5,6 @@
 {% if page.author_profile or layout.author_profile or page.sidebar %}
   <div class="sidebar sticky">
 
-  <center>
-  <time datetime="2017-03-31" class="calendar_icon">
-  <em>Friday</em>
-  <strong>March</strong>
-  <span>31</span>
-  </time>
-  </center>
-         
   {% if page.author_profile or layout.author_profile %}{% include author-profile.html %}{% endif %}
   {% if page.sidebar %}
     {% for s in page.sidebar %}
@@ -32,6 +24,24 @@
       {% include nav_list nav=page.sidebar.nav %}
     {% endif %}
   {% endif %}
+
+
+  <center>
+  <p>
+  SSBSE'17 will be hosted in Paderborn, Germany, September 09-11.
+  </p>
+  <p>
+  The conference will be co-located with <a href="http://esec-fse17.uni-paderborn.de/" target="_blank">FSE'17</a>
+  </p>
+  </center>
+
+  <center>
+  <time datetime="2017-03-31" class="calendar_icon">
+  <em>Friday</em>
+  <strong>March</strong>
+  <span>31</span>
+  </time>
+  </center>
 
   <!--<p><b>Important Dates</b></p>-->
   <!--<p><b>Research Track</b><br>-->
