@@ -96,28 +96,28 @@ Yuanyuan Zhang, University College London, UK (until 2016)
 
 <ul>
 <li><em>Justyna Petke</em> <a href="">University College London</a> <b>co-CHAIR</b></li>
-<li><em>Tim Menzies</em> <a href="http://menzies.us">"ncstate</a> <b>co-CHAIR</b></li>
-<li><em>Marouane Kessentini</em> <a href="">University of Michigan</a></li>
-<li><em>Juan Pablo Galeotti</em> <a href="http://www.dc.uba.ar/~jgaleotti">University of Buenos Aires</a></li>
-<li><em>Mark Harman</em> <a href="http://www.cs.ucl.ac.uk/staff/mharman">University college london</a></li>
+<li><em>Tim Menzies</em> <a href="http://menzies.us">NC State</a> <b>co-CHAIR</b><hr></li>
+<li><em>Aldeida Aleti</em> <a href="http://users.monash.edu.au/~aldeidaa/">Monash University</a></li>
+<li><em>Alessandro Marchetto</em> <a href="">Centro Ricerche FIAT - CRF</a></li>
+<li><em>Andrea Arcuri</em> <a href="http://arcuriandrea.org/">Scienta, Univesity of Luxemburg</a></li>
+<li><em>Anne Koziolek</em> <a href="http://sdq.ipd.kit.edu/people/anne_koziolek">Karlsruhe Institute of Technology</a></li>
+<li><em>Federica Sarro</em> <a href="">University College London</a></li>
+<li><em>Francisco Chicano</em> <a href="http://www.franciscochicano.es">University of Molaga</a></li>
+<li><em>Giuliano Antoniol</em> <a href="http://web.soccerlab.polymtl.ca/~antoniol/">Ecole Polytechnique de Montreal</a></li>
 <li><em>Gregory Gay</em> <a href="">University of South Carolina</a></li>
 <li><em>Guenther Ruhe</em> <a href="">Univ of Calgary</a></li>
-<li><em>Aldeida Aleti</em> <a href="http://users.monash.edu.au/~aldeidaa/">Monash University</a></li>
-<li><em>Thelma E. Colanzi</em> <a href="">State University of Maring</a></li>
 <li><em>Hadi Hemmati</em> <a href="">University of Manitoba</a></li>
-<li><em>Shin Yoo</em> <a href="">Korea Advanced Institute of Science and Technology</a></li>
-<li><em>Muhammad Zohaib Iqbal</em> <a href="http://isb.nu.edu.pk/zohaib">"Quest lab</a></li>
-<li><em>Andrea Arcuri</em> <a href="http://arcuriandrea.org/">"Scienta</a></li>
-<li><em>Pasqualina Potena</em> <a href="https://www.sics.se/people/pasqualina-potena">SICS Swedish ICT Vasteres AB</a></li>
+<li><em>Jerffeson Souza</em> <a href="">State University of Ceara</a></li>
+<li><em>Juan Pablo Galeotti</em> <a href="http://www.dc.uba.ar/~jgaleotti">University of Buenos Aires</a></li>
 <li><em>Leandro Minku</em> <a href="">University of Leicester</a></li>
 <li><em>Leonardo Bottaci</em> <a href="">University of Hull</a></li>
 <li><em>Marcio Barros</em> <a href="http://www.uniriotec.br/~marcio.barros">UNIRIO</a></li>
-<li><em>Phil McMinn</em> <a href="http://philmcminn.staff.shef.ac.uk">University of Sheffield</a></li>
-<li><em>Giuliano Antoniol</em> <a href="http://web.soccerlab.polymtl.ca/~antoniol/">Ecole Polytechnique de Montreal</a></li>
-<li><em>Federica Sarro</em> <a href="">University College London</a></li>
-<li><em>Francisco Chicano</em> <a href="http://www.franciscochicano.es">University of Molaga</a></li>
-<li><em>Alessandro Marchetto</em> <a href="">Centro Ricerche FIAT - CRF</a></li>
-<li><em>Anne Koziolek</em> <a href="http://sdq.ipd.kit.edu/people/anne_koziolek">Karlsruhe Institute of Technology</a></li>
-<li><em>Jerffeson Souza</em> <a href="">State University of Ceara</a></li>
+<li><em>Mark Harman</em> <a href="http://www.cs.ucl.ac.uk/staff/mharman">University college london</a></li>
+<li><em>Marouane Kessentini</em> <a href="">University of Michigan</a></li>
 <li><em>Massimiliano Di Penta</em> <a href="http://www.ing.unisannio.it/mdipenta">University of Sannio</a></li>
+<li><em>Muhammad Zohaib Iqbal</em> <a href="http://isb.nu.edu.pk/zohaib">National University of Computer & Emerging Sciences</a></li>
+<li><em>Pasqualina Potena</em> <a href="https://www.sics.se/people/pasqualina-potena">SICS Swedish ICT Vasteres AB</a></li>
+<li><em>Phil McMinn</em> <a href="http://philmcminn.staff.shef.ac.uk">University of Sheffield</a></li>
+<li><em>Shin Yoo</em> <a href="">Korea Advanced Institute of Science and Technology</a></li>
+<li><em>Thelma E. Colanzi</em> <a href="">State University of Maring</a></li>
 </ul>
