@@ -6,7 +6,7 @@ title: "Keynotes"
 
 <link rel="stylesheet" href="../css/keynotes.css">
 
-<img src="../images/myra.jpg" class="keynote_photo">
+<img src="../images/myra.jpg" class="keynote_photo" width="200">
 
 <center><h2><a href="http://cse.unl.edu/~myra/index.html">Prof. Myra B. Cohen</a></h2></center>
 
@@ -14,7 +14,7 @@ title: "Keynotes"
 
 ---
 
-<img src="../images/blank_photo.jpg" class="keynote_photo">
+<!--img src="../images/blank_photo.jpg" class="keynote_photo"-->
 
 <center><h2>Speaker 2 - Title of Keynote 2</h2></center>
 
