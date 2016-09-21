@@ -1,7 +1,7 @@
 ---
 layout: archive_smaller_font
 author_profile: true
-title: "Keynotes"
+title: "Keynote Speakers"
 ---
 
 <link rel="stylesheet" href="../css/keynotes.css">
