@@ -2,7 +2,7 @@
 layout: single_smaller_font
 author_profile: true
 title: "Keynotes"
-excerpt: "The keynotes for SSBSE'17 have been announced."
+excerpt: "Keynotes for SSBSE'17: Myra Cohen and TBA."
 tags: []
 ---
 
