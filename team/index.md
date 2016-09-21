@@ -95,8 +95,8 @@ Yuanyuan Zhang, University College London, UK (until 2016)
 <h1 style="text-align: left;" markdown="1">Program Committee</h1>
 
 <ul>
-<li><em>Justyna Petke</em> <a href="">University College London</a> <b>co-CHAIR</b></li>
-<li><em>Tim Menzies</em> <a href="http://menzies.us">NC State</a> <b>co-CHAIR</b><hr></li>
+<li><em>Justyna Petke</em> <a href="">University College London</a> <b>co-PC CHAIR</b></li>
+<li><em>Tim Menzies</em> <a href="http://menzies.us">NC State</a> <b>co-PC CHAIR</b></li>
 <li><em>Aldeida Aleti</em> <a href="http://users.monash.edu.au/~aldeidaa/">Monash University</a></li>
 <li><em>Alessandro Marchetto</em> <a href="">Centro Ricerche FIAT - CRF</a></li>
 <li><em>Andrea Arcuri</em> <a href="http://arcuriandrea.org/">Scienta, Univesity of Luxemburg</a></li>
