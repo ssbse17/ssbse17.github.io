@@ -43,8 +43,7 @@ More information: [Heinz Nixdorf MuseumsForum](http://www.hnf.de/en/home.html "H
 ### Accomodation ###
 Contact the hotel of your choice and book a room as early as possible to reserve the hotel of your choice.
 
-![image-hnf](/images/venue/hotel_welcome.jpg){: .align-center}
-<span style="font-size: 10px">Picture Credits: Welcome Hotel  </span>
+
 
 [Welcome Hotel Paderborn](http://www.welcome-hotels.com/en/welcomehotel-paderborn/info/ "Welcome Hotel Paderborn")
 
@@ -55,8 +54,10 @@ Fax: +49 (0) 5251 2880-100
 E-Mail: <a href="mailto:info.pad@welcome-hotels.com">info.pad@welcome-hotels.com</a>
 Distance to venue: approx. 1.0 km (0.62 miles)
 
-![image-hnf](/images/venue/hotel_arosa.jpg){: .align-center}
-<span style="font-size: 10px">Picture Credits: Best Western Premier Arosa Hotel  </span>
+![image-hnf](/images/venue/hotel_welcome.jpg){: .align-center}
+<span style="font-size: 10px">Picture Credits: Welcome Hotel  </span>
+
+
 
 [Western Premier Arosa Hotel](http://book.bestwestern.com/bestwestern/DE/Paderborn-hotels/BEST-WESTERN-PREMIER-Arosa-Hotel/Hotel-Overview.do?propertyCode=95010&disablenav=true&suppressSSLPopup=true&sob=A105&language=en_US "Western Premier Arosa Hotel")
 
@@ -67,9 +68,8 @@ Fax: +49 (0) 5251 128-806
 E-Mail: <a href="mailto: info@arosa.bestwestern.de"> info@arosa.bestwestern.de</a>
 Distance to venue: approx. 1.8 km (1.12 miles)
 
-
-![image-hnf](/images/venue/hotel_ibis.jpg){: .align-center}
-<span style="font-size: 10px">Picture Credits: Ibis Hotel Paderborn  </span>
+![image-hnf](/images/venue/hotel_arosa.jpg){: .align-center}
+<span style="font-size: 10px">Picture Credits: Best Western Premier Arosa Hotel  </span>
 
 [Ibis Hotel Paderborn City](http://www.ibis.com/gb/hotel-0718-ibis-paderborn-city/index.shtml "Ibis Hotel Paderborn")
 
@@ -79,6 +79,9 @@ Tel:&nbsp;&nbsp;+49 (0) 5251 124-5
 Fax: +49 (0) 5251 124-888
 E-Mail: <a href="mailto: H0718@accor.com"> H0718@accor.com</a>				
 Distance to venue: approx. 1.6 km (0.99 miles)
+
+![image-hnf](/images/venue/hotel_ibis.jpg){: .align-center}
+<span style="font-size: 10px">Picture Credits: Ibis Hotel Paderborn  </span>
 
 More [Hotels:](http://www.paderborn.de/microsite/welcome/tourism/hotels_inns_guesthouses.php?p=0,10 "Hotels")
 
