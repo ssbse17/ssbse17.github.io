@@ -39,3 +39,45 @@ More information: [Paderborn Cityportal](http://www.paderborn.de/microsite/welco
 The Heinz Nixdorf MuseumsForum is the world’s largest computer museum, as well as a vibrant venue. The 5,000-year history, present and future of information technology is depicted over 6,000 m² of floor space, from the origins of numbers and characters in 3,000 B.C. all the way to the computer age of the 21st century. The 2,000-plus objects on show are presented within the broad context of social and economic history, making the exhibition appealing to laymen and computer experts alike. The extensive offering of events in the MuseumsForum complements the exhibition. Lectures, workshops and conferences focus on aspects of the far-reaching influence exerted by information technologies on both man and society at large. Thus the remit of the HNF is to address the issues of man’s guidance and education in the present-day information society.
 
 More information: [Heinz Nixdorf MuseumsForum](http://www.hnf.de/en/home.html "Heinz Nixdorf MuseumsForum")
+
+### Accomodation ###
+Room contingents have been reserved in three conveniently located hotels. As the number of reserved rooms is limited and the reservations are only valid for a limited time, please make sure to contact the hotel of your choice and book a room as early as possible.
+
+The following hotels offer rooms at a special ESEC/FSE 2017 conference rate.
+To reserve the hotel of your choice, please contact the hotel directly.
+
+![image-hnf](/images/venue/hotel_welcome.jpg){: .align-center}
+<span style="font-size: 10px">Picture Credits: Welcome Hotel  </span>
+
+<strong><a href="http://www.welcome-hotels.com/en/welcomehotel-paderborn/info/" target="_blank">Welcome Hotel Paderborn</a></strong> 
+Fürstenweg 13
+33102 Paderborn
+Tel:&nbsp;&nbsp;+49 (0) 5251 2880-0
+Fax: +49 (0) 5251 2880-100
+E-Mail: <a href="mailto:info.pad@welcome-hotels.com">info.pad@welcome-hotels.com</a>
+Distance to venue: approx. 1.0 km (0.62 miles)
+
+![image-hnf](/images/venue/hotel_arosa.jpg){: .align-center}
+<span style="font-size: 10px">Picture Credits: Best Western Premier Arosa Hotel  </span>
+<strong><a href="http://book.bestwestern.com/bestwestern/DE/Paderborn-hotels/BEST-WESTERN-PREMIER-Arosa-Hotel/Hotel-Overview.do?propertyCode=95010&disablenav=true&suppressSSLPopup=true&sob=A105&language=en_US" target="_blank">Best Western Premier Arosa Hotel</a></strong> 
+
+Westernmauer 38
+33098 Paderborn
+Tel:&nbsp;&nbsp;+49 (0) 5251 128-0
+Fax: +49 (0) 5251 128-806
+E-Mail: <a href="mailto: info@arosa.bestwestern.de"> info@arosa.bestwestern.de</a>
+Distance to venue: approx. 1.8 km (1.12 miles)
+
+
+![image-hnf](/images/venue/hotel_ibis.jpg){: .align-center}
+<span style="font-size: 10px">Picture Credits: Ibis Hotel Paderborn  </span>
+<strong><a href="http://www.ibis.com/gb/hotel-0718-ibis-paderborn-city/index.shtml" target="_blank">Ibis Hotel Paderborn City</a></strong> 
+Paderwall 1-5
+33102 Paderborn
+Tel:&nbsp;&nbsp;+49 (0) 5251 124-5
+Fax: +49 (0) 5251 124-888
+E-Mail: <a href="mailto: H0718@accor.com"> H0718@accor.com</a>				
+Distance to venue: approx. 1.6 km (0.99 miles)
+
+More [Hotels:](http://www.paderborn.de/microsite/welcome/tourism/hotels_inns_guesthouses.php?p=0,10 "Hotels")
+
