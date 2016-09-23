@@ -41,15 +41,13 @@ The Heinz Nixdorf MuseumsForum is the world’s largest computer museum, as well
 More information: [Heinz Nixdorf MuseumsForum](http://www.hnf.de/en/home.html "Heinz Nixdorf MuseumsForum")
 
 ### Accomodation ###
-Room contingents have been reserved in three conveniently located hotels. As the number of reserved rooms is limited and the reservations are only valid for a limited time, please make sure to contact the hotel of your choice and book a room as early as possible.
-
-The following hotels offer rooms at a special ESEC/FSE 2017 conference rate.
-To reserve the hotel of your choice, please contact the hotel directly.
+Contact the hotel of your choice and book a room as early as possible to reserve the hotel of your choice.
 
 ![image-hnf](/images/venue/hotel_welcome.jpg){: .align-center}
 <span style="font-size: 10px">Picture Credits: Welcome Hotel  </span>
 
-<strong><a href="http://www.welcome-hotels.com/en/welcomehotel-paderborn/info/" target="_blank">Welcome Hotel Paderborn</a></strong> 
+[Welcome Hotel Paderborn](http://www.welcome-hotels.com/en/welcomehotel-paderborn/info/ "Welcome Hotel Paderborn")
+
 Fürstenweg 13
 33102 Paderborn
 Tel:&nbsp;&nbsp;+49 (0) 5251 2880-0
@@ -59,7 +57,8 @@ Distance to venue: approx. 1.0 km (0.62 miles)
 
 ![image-hnf](/images/venue/hotel_arosa.jpg){: .align-center}
 <span style="font-size: 10px">Picture Credits: Best Western Premier Arosa Hotel  </span>
-<strong><a href="http://book.bestwestern.com/bestwestern/DE/Paderborn-hotels/BEST-WESTERN-PREMIER-Arosa-Hotel/Hotel-Overview.do?propertyCode=95010&disablenav=true&suppressSSLPopup=true&sob=A105&language=en_US" target="_blank">Best Western Premier Arosa Hotel</a></strong> 
+
+[Western Premier Arosa Hotel](http://book.bestwestern.com/bestwestern/DE/Paderborn-hotels/BEST-WESTERN-PREMIER-Arosa-Hotel/Hotel-Overview.do?propertyCode=95010&disablenav=true&suppressSSLPopup=true&sob=A105&language=en_US "Western Premier Arosa Hotel")
 
 Westernmauer 38
 33098 Paderborn
@@ -71,7 +70,9 @@ Distance to venue: approx. 1.8 km (1.12 miles)
 
 ![image-hnf](/images/venue/hotel_ibis.jpg){: .align-center}
 <span style="font-size: 10px">Picture Credits: Ibis Hotel Paderborn  </span>
-<strong><a href="http://www.ibis.com/gb/hotel-0718-ibis-paderborn-city/index.shtml" target="_blank">Ibis Hotel Paderborn City</a></strong> 
+
+[Ibis Hotel Paderborn City](http://www.ibis.com/gb/hotel-0718-ibis-paderborn-city/index.shtml "Ibis Hotel Paderborn")
+
 Paderwall 1-5
 33102 Paderborn
 Tel:&nbsp;&nbsp;+49 (0) 5251 124-5
