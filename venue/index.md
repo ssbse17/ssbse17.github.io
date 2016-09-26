@@ -78,6 +78,24 @@ Distance to venue: approx. 1.6 km (0.99 miles)
 
 More [Hotels:](http://www.paderborn.de/microsite/welcome/tourism/hotels_inns_guesthouses.php?p=0,10 "Hotels")
 
+### Arrival ###
+
+
+
+
+
+#### Plane  ####
+The Paderborn/Lippstadt airport (3-letter-code: PAD) lies about 20 km southwest of Paderborn. Buses (line 400 or line 460 ) connect the airport and the train station Paderborn. 
+International flights are reachable via flights to Munich operated by Lufthansa City Line. Via train the international airports  Düsseldorf (3-letter-code: DUS) (~2 h) and   Frankfurt (3-letter-code: FRA) (~4 h) are reachable. 
+Other regional airports are located in Dortmund (90 km), Münster/Osnabrück (80 km) and Hannover (150 km). 
+
+ #### Train ####
+Paderborn is located directly on the IC/ICE routes Düsseldorf-Hamm-Kassel-Erfurt-Dresden and Cologne-Munich. Furthermore, there are good regional connections to the IC/ICE train stations Bielefeld, Dortmund, Hamm, Kassel and Hannover.
+Train connections are operated by the [Deutsche Bahn](https://www.bahn.de/p_en/view/ "Deutsche Bahn").
+
+#### Car ####
+The motorway 33 (A 33), a connection between the A 2 (Ruhr-Hannover) and the A 44 (Dortmund-Kassel), leads to Paderborn. The city can also be reached via federal roads: the B 64 (from Höxter, Bad Driburg as well as Münster, Rheda-Wiedenbrück); the B 68 (from Warburg, Kassel); the B 1 (from Hameln, Detmold and Soest, Geseke) and via the B 480 (from Brilon).
+
 ### Tourism ###
 
 #### Theater ####
