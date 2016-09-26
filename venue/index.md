@@ -32,18 +32,15 @@ Situated at the heart of Germany, midway between the Northern Lowlands and the m
 More information: [Paderborn Cityportal](http://www.paderborn.de/microsite/welcome/index.php "Paderborn Cityportal")
 
 
-### Heinz Nixdorf MuseumsForum (HNF)
-![image-hnf](/images/venue/HNF-Aussenansicht_sm.jpg){: .align-center}
-<span style="font-size: 10px">Heinz Nixdorf MuseumsForum, Picture Credits: Jan Braun  </span>
 
-The Heinz Nixdorf MuseumsForum is the world’s largest computer museum, as well as a vibrant venue. The 5,000-year history, present and future of information technology is depicted over 6,000 m² of floor space, from the origins of numbers and characters in 3,000 B.C. all the way to the computer age of the 21st century. The 2,000-plus objects on show are presented within the broad context of social and economic history, making the exhibition appealing to laymen and computer experts alike. The extensive offering of events in the MuseumsForum complements the exhibition. Lectures, workshops and conferences focus on aspects of the far-reaching influence exerted by information technologies on both man and society at large. Thus the remit of the HNF is to address the issues of man’s guidance and education in the present-day information society.
 
-More information: [Heinz Nixdorf MuseumsForum](http://www.hnf.de/en/home.html "Heinz Nixdorf MuseumsForum")
+
 
 ### Accomodation ###
 Contact the hotel of your choice and book a room as early as possible to reserve the hotel of your choice.
 
-
+![image-hnf](/images/venue/hotel_welcome.jpg){: .align-center}
+<span style="font-size: 10px">Picture Credits: Welcome Hotel  </span>
 
 [Welcome Hotel Paderborn](http://www.welcome-hotels.com/en/welcomehotel-paderborn/info/ "Welcome Hotel Paderborn")
 
@@ -54,10 +51,8 @@ Fax: +49 (0) 5251 2880-100
 E-Mail: <a href="mailto:info.pad@welcome-hotels.com">info.pad@welcome-hotels.com</a>
 Distance to venue: approx. 1.0 km (0.62 miles)
 
-![image-hnf](/images/venue/hotel_welcome.jpg){: .align-center}
-<span style="font-size: 10px">Picture Credits: Welcome Hotel  </span>
-
-
+![image-hnf](/images/venue/hotel_arosa.jpg){: .align-center}
+<span style="font-size: 10px">Picture Credits: Best Western Premier Arosa Hotel  </span>
 
 [Western Premier Arosa Hotel](http://book.bestwestern.com/bestwestern/DE/Paderborn-hotels/BEST-WESTERN-PREMIER-Arosa-Hotel/Hotel-Overview.do?propertyCode=95010&disablenav=true&suppressSSLPopup=true&sob=A105&language=en_US "Western Premier Arosa Hotel")
 
@@ -68,8 +63,9 @@ Fax: +49 (0) 5251 128-806
 E-Mail: <a href="mailto: info@arosa.bestwestern.de"> info@arosa.bestwestern.de</a>
 Distance to venue: approx. 1.8 km (1.12 miles)
 
-![image-hnf](/images/venue/hotel_arosa.jpg){: .align-center}
-<span style="font-size: 10px">Picture Credits: Best Western Premier Arosa Hotel  </span>
+
+![image-hnf](/images/venue/hotel_ibis.jpg){: .align-center}
+<span style="font-size: 10px">Picture Credits: Ibis Hotel Paderborn  </span>
 
 [Ibis Hotel Paderborn City](http://www.ibis.com/gb/hotel-0718-ibis-paderborn-city/index.shtml "Ibis Hotel Paderborn")
 
@@ -80,8 +76,44 @@ Fax: +49 (0) 5251 124-888
 E-Mail: <a href="mailto: H0718@accor.com"> H0718@accor.com</a>				
 Distance to venue: approx. 1.6 km (0.99 miles)
 
-![image-hnf](/images/venue/hotel_ibis.jpg){: .align-center}
-<span style="font-size: 10px">Picture Credits: Ibis Hotel Paderborn  </span>
-
 More [Hotels:](http://www.paderborn.de/microsite/welcome/tourism/hotels_inns_guesthouses.php?p=0,10 "Hotels")
 
+### Tourism ###
+
+#### Theater ####
+
+The Westfälische Kammerspiele Paderborn inspire with a varied program. Worth seeing is not only the performances but also the  building in the heart of Paderborn from 2011. [Program (in German)](http://www.theater-paderborn.de/final/html/programm_spielplan.php "Program")
+![image-chapel](/images/venue/Theater.jpg){: .align-center}
+<span style="font-size: 10px">Westfälische Kammerspiele Paderborn, Picture Credits:  CC BY-SA 4.0, From Wikimedia Commons by User:Tsungam  </span>
+
+
+
+#### Museums and Galleries ####
+12 museums are located within Paderborn.
+The museum in the imperial palace, which issued the original foundations of the palace complex of Charlemagne in the 8th century and the masonry of the much better preserved Palatinate Henry II. From the High Middle Ages.
+
+Very popular is the Archbishop's Diocesan Museum and the Cathedral Treasury, which house an extensive collection of religious art from the 10th to the 20th century. Overall, the collection includes about 8000 exhibits.
+
+The Heinz Nixdorf MuseumsForum is the world’s largest computer museum, as well as a vibrant venue. The 5,000-year history, present and future of information technology is depicted over 6,000 m² of floor space, from the origins of numbers and characters in 3,000 B.C. all the way to the computer age of the 21st century. The 2,000-plus objects on show are presented within the broad context of social and economic history, making the exhibition appealing to laymen and computer experts alike.
+More information: [Heinz Nixdorf MuseumsForum](http://www.hnf.de/en/home.html "Heinz Nixdorf MuseumsForum")
+
+![image-hnf](/images/venue/HNF-Aussenansicht_sm.jpg){: .align-center}
+<span style="font-size: 10px">Heinz Nixdorf MuseumsForum, Picture Credits: Jan Braun  </span>
+
+#### Structures ####
+
+In addition to cities such as Aachen or Münster Paderborn among the most important historic towns in North Rhine-Westphalia. Overall, the most important monuments of Paderborn date back to  the 10th and 13th centuries, as well as to the Baroque in 17/18. century.
+
+The Paderborn Cathedral is the symbol of the city and dates back to the 13th century. He impressed with its 
+imposing size (west tower has a height of 93 meters on the crypt with 32 meters length one of the largest in Germany) as well as with a fascinating architecture.
+![image-chapel](/images/venue/Paderborn_Dom_Westturm_835.jpg){: .align-center}
+<span style="font-size: 10px">Paderborn Cathedral, Picture Credits:  CC-BY-SA-3.0, From Wikimedia Commons by User:GFreihalter  </span>
+
+The Bartholomew Chapel in Paderborn was built around 1017 and is considered the oldest known church hall north of the Alps .
+![image-chapel](/images/venue/Bartholomaeuskapelle.JPG){: .align-center}
+<span style="font-size: 10px">Bartholomaeuskapelle, Picture Credits:  CC0 1.0,, From Wikimedia Commons by User:Athde  </span>
+
+
+In Schloß Neuhaus, about 4 km from the city centre, there is the former residence of the Paderborn prince bishops. The water castle from the early Weser Renaissance era with its lovely Baroque garden are well worth visiting.
+![image-neuhaus](/images/venue/neuhaus.jpg){: .align-center}
+<span style="font-size: 10px">Schloß Neuhaus, Picture Credits: CC-BY-SA-3.0, From Wikimedia Commons by User:Rufus46  </span>
