@@ -9,9 +9,17 @@ title: "Conference Venue"
 
 
 SSBSE 2017 will take place in Paderborn, Germany. Paderborn is a city in eastern North Rhine-Westphalia, Germany. The city combines over 1,200 years of history with high-tech research and industry. Paderborn was once the oldest academic site in Westphalia. The Paderborn University was founded in 1614 by the Jesuits, but was closed in 1819. It was re-founded in 1972. Today, it is attended by about 20,000 students. Paderborn will offer you a fascinating mixture worth seeing.
+### 
 
-The conference will be held in the world's largest computer museum: the Heinz Nixdorf MuseumsForum. 
-In addtion, parts of the program will be located in the neighbouring university buildings.
+The conference will be held in the [Heinz Nixdorf Institute](https://www.hni.uni-paderborn.de/en/headernavigation/contact-us/ "Heinz Nixdorf Institute") next to the world's largest computer museum: the Heinz Nixdorf MuseumsForum. 
+In the  Heinz Nixdorf Institute the conference will be held in room F0.530 on the main floor and in room F1.110 on the first floor. 
+
+Address: 
+Heinz Nixdorf Institute, 
+University of Paderborn, 
+Fürstenallee 11, 
+33102 Paderborn, 
+Germany
 				
 
 ### Region of Eastern Westphalia (Ostwestfalen-Lippe)
@@ -36,7 +44,7 @@ More information: [Paderborn Cityportal](http://www.paderborn.de/microsite/welco
 
 
 
-### Accomodation ###
+### Accomodation 
 Contact the hotel of your choice and book a room as early as possible to reserve the hotel of your choice.
 
 ![image-hnf](/images/venue/hotel_welcome.jpg){: .align-center}
@@ -78,27 +86,27 @@ Distance to venue: approx. 1.6 km (0.99 miles)
 
 More [Hotels:](http://www.paderborn.de/microsite/welcome/tourism/hotels_inns_guesthouses.php?p=0,10 "Hotels")
 
-### Arrival ###
+### Arrival
 
-
-
-
-
-#### Plane  ####
-The Paderborn/Lippstadt airport (3-letter-code: PAD) lies about 20 km southwest of Paderborn. Buses (line 400 or line 460 ) connect the airport and the train station Paderborn. 
+#### Plane  
+The Paderborn/Lippstadt airport (3-letter-code: PAD) lies about 20 km southwest of Paderborn. 
 International flights are reachable via flights to Munich operated by Lufthansa City Line. Via train the international airports  Düsseldorf (3-letter-code: DUS) (~2 h) and   Frankfurt (3-letter-code: FRA) (~4 h) are reachable. 
 Other regional airports are located in Dortmund (90 km), Münster/Osnabrück (80 km) and Hannover (150 km). 
 
- #### Train ####
+From Paderborn/Lippstadt airport take a taxi (total journey time 25 minutes, approx. 35 Euro) or take bus No. 400/460 towards Paderborn main station (Hauptbahnhof). From the main station take bus No. 11 towards Thuner Siedlung and get off at the MuseumsForum stop (total journey time approx. 50 minutes).
+
+#### Train 
 Paderborn is located directly on the IC/ICE routes Düsseldorf-Hamm-Kassel-Erfurt-Dresden and Cologne-Munich. Furthermore, there are good regional connections to the IC/ICE train stations Bielefeld, Dortmund, Hamm, Kassel and Hannover.
 Train connections are operated by the [Deutsche Bahn](https://www.bahn.de/p_en/view/ "Deutsche Bahn").
 
-#### Car ####
+From Paderborn main station (Hauptbahnhof) take a taxi (total journey time 10 minutes, approx. 8 Euro) or take bus No. 11 towards Thuner Siedlung and get off at the MuseumsForum stop (total journey time approx. 10 minutes).
+
+#### Car 
 The motorway 33 (A 33), a connection between the A 2 (Ruhr-Hannover) and the A 44 (Dortmund-Kassel), leads to Paderborn. The city can also be reached via federal roads: the B 64 (from Höxter, Bad Driburg as well as Münster, Rheda-Wiedenbrück); the B 68 (from Warburg, Kassel); the B 1 (from Hameln, Detmold and Soest, Geseke) and via the B 480 (from Brilon).
 
-### Tourism ###
+### Tourism 
 
-#### Theater ####
+#### Theater 
 
 The Westfälische Kammerspiele Paderborn inspire with a varied program. Worth seeing is not only the performances but also the  building in the heart of Paderborn from 2011. [Program (in German)](http://www.theater-paderborn.de/final/html/programm_spielplan.php "Program")
 ![image-chapel](/images/venue/Theater.jpg){: .align-center}
@@ -106,7 +114,7 @@ The Westfälische Kammerspiele Paderborn inspire with a varied program. Worth se
 
 
 
-#### Museums and Galleries ####
+#### Museums
 12 museums are located within Paderborn.
 The museum in the imperial palace, which issued the original foundations of the palace complex of Charlemagne in the 8th century and the masonry of the much better preserved Palatinate Henry II. From the High Middle Ages.
 
@@ -118,7 +126,7 @@ More information: [Heinz Nixdorf MuseumsForum](http://www.hnf.de/en/home.html "H
 ![image-hnf](/images/venue/HNF-Aussenansicht_sm.jpg){: .align-center}
 <span style="font-size: 10px">Heinz Nixdorf MuseumsForum, Picture Credits: Jan Braun  </span>
 
-#### Structures ####
+#### Structures 
 
 In addition to cities such as Aachen or Münster Paderborn among the most important historic towns in North Rhine-Westphalia. Overall, the most important monuments of Paderborn date back to  the 10th and 13th centuries, as well as to the Baroque in 17/18. century.
 
