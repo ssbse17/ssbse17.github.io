@@ -14,7 +14,7 @@ title: "Keynote Speakers"
 
 ---
 
-<!--img src="../images/joachim.jpg" class="keynote_photo" width="200">
+<img src="../images/joachim.jpg" class="keynote_photo" width="200">
 
 <center><h2>Dr. Joachim Wegener</h2></center>
 
