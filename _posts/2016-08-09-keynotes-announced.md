@@ -22,6 +22,8 @@ tags: []
 
 
 <b>Title: Industrial Applications of Evolutionary Testing</b>
+
+
 <b>Abstract:</b> Test case design could be easily interpreted as the search of the tester for an error-sensitive set of test cases. 
 The application of search techniques to find an adequate set of test cases automatically is straight forward if an appropriate transformation 
 of the testing goals into a fitness function could be defined. Therefore, numerous publications on evolutionary testing were published during 
