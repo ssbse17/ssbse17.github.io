@@ -14,11 +14,21 @@ title: "Keynote Speakers"
 
 ---
 
-<!--img src="../images/blank_photo.jpg" class="keynote_photo"-->
+<!--img src="../images/joachim.jpg" class="keynote_photo" width="200">
 
-<center><h2>Speaker 2 - Title of Keynote 2</h2></center>
+<center><h2>Dr. Joachim Wegener</h2></center>
 
-<b>Abstract:</b> Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam bibendum convallis dignissim. Integer tempus turpis nisl, non consequat libero tristique ut. Nulla facilisi. Nulla mollis mauris metus, nec placerat risus luctus at. Duis sit amet dolor in lacus luctus consequat. Fusce elementum varius leo, eget sodales nulla consectetur eu. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Donec tincidunt lacus in elit interdum, a ultricies neque congue. Nam sit amet varius eros. Nullam nec consectetur turpis, eget vestibulum nunc. Curabitur porttitor ultrices est non suscipit. Aliquam non ante nec enim convallis iaculis. Curabitur eu metus ultricies, accumsan ante sed, cursus ex. Etiam auctor felis nec purus dictum sollicitudin. Cras egestas interdum suscipit. 
+<b>Abstract:</b> Test case design could be easily interpreted as the search of the tester for an error-sensitive set of test cases. 
+The application of search techniques to find an adequate set of test cases automatically is straight forward if an appropriate transformation 
+of the testing goals into a fitness function could be defined. Therefore, numerous publications on evolutionary testing were published during 
+the last two decades from researchers all over the world. Nevertheless, evolutionary testing has not found its way into industrial practice. 
+Industrial applications are mostly limited to experimental case studies.
 
-<b>Biography:</b> Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam bibendum convallis dignissim. Integer tempus turpis nisl, non consequat libero tristique ut. Nulla facilisi. Nulla mollis mauris metus, nec placerat risus luctus at. Duis sit amet dolor in lacus luctus consequat. Fusce elementum varius leo, eget sodales nulla consectetur eu. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Donec tincidunt lacus in elit interdum, a ultricies neque congue. Nam sit amet varius eros. Nullam nec consectetur turpis, eget vestibulum nunc. Curabitur porttitor ultrices est non suscipit. Aliquam non ante nec enim convallis iaculis. Curabitur eu metus ultricies, accumsan ante sed, cursus ex. Etiam auctor felis nec purus dictum sollicitudin. Cras egestas interdum suscipit. 
+ 
 
+The keynote will present successful applications of evolutionary testing in industrial practice and will discuss the success factors. 
+Most successful applications are from the test of embedded systems, since here often very complex implementations are required in order to realize single, 
+well tangible system tasks. But also the aspects hindering a broader application of evolutionary testing in practice shall be discussed. 
+The time is right for a wider introduction. 
+
+<b>Biography:</b> Dr. Joachim Wegener studied computer science at the Technical University Berlin and received his PhD from Humboldt University Berlin. His thesis work, “Evolutionary Testing of real-time systems’ temporal behavior” gained him the “Best Dissertation in Software Engineering” award of the Ernst-Denert-Foundation and the German Computer Society, 2002. Joachim Wegener began his professional career as a scientist at Daimler AG Research and Technology.  For DaimlerChrysler research and advanced development he led the software analysis and testing group as well as a group on advanced techniques in software engineering.  Since 2007 he works for Berner & Mattner  Systemtechnik GmbH – a subsidiary of the Assystem group – specialized on embedded systems development services and products. At Berner&Mattner, Joachim Wegener is responsible for the departments in Berlin, Brunswick, Cologne and Wolfsburg as well as the product development.  He is one of the international leading industrial researchers in evolutionary and systematic testing and has more than ninety publications. He is the inventor of the successful classification tree editors CTE, CTE XL and TESTONA with several thousand users worldwide. 
