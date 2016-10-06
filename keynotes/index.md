@@ -10,7 +10,7 @@ title: "Keynote Speakers"
 
 <center><h2><a href="http://cse.unl.edu/~myra/index.html">Prof. Myra B. Cohen</a></h2></center>
 
-<b>The Grass isn’t Always Greener:  A Changing Neighborhood and Varying Landscape  </b>
+<b>Title: The Grass isn’t Always Greener:  A Changing Neighborhood and Varying Landscape  </b>
 
 
 <b>Abstract:</b> 
@@ -32,6 +32,7 @@ software product lines, graphical user interfaces, and self-adaptive software.
 She regularly utilizes search based software engineering techniques in her research and teaches a graduate course on this topic. 
 She has been a program committee member of many highly regarded software engineering conferences such as ICSE, FSE, ASE, ISSTA and ICST. 
 She was the program co-chair of SSBSE in 2011, the GECCO SBSE track in 2010 and ISSRE in 2013. She was the general chair of ASE in 2015.
+
 ---
 
 <img src="../images/joachim.jpg" class="keynote_photo" width="200">
