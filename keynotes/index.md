@@ -10,8 +10,28 @@ title: "Keynote Speakers"
 
 <center><h2><a href="http://cse.unl.edu/~myra/index.html">Prof. Myra B. Cohen</a></h2></center>
 
-<b>Biography:</b> Myra Cohen is a Susan J. Rosowski Professor in Computer Science and Engineering at the University of Nebraska-Lincoln. She is a member of the ESQuaReD software engineering research group. She received her Ph.D. from the University of Auckland, New Zealand, where she lectured in the Computer Science and Software Engineering programs. She received her M.S. from the University of Vermont after which she spent a couple of years as a Lecturer in the Computer Science Department. She received her B.S. from the School of Agriculture and Life Sciences at Cornell University. Her research interests are in software testing, search based software engineering and applications of combinatorial designs. 
+<b>The Grass isn’t Always Greener:  A Changing Neighborhood and Varying Landscape  </b>
 
+
+<b>Abstract:</b> 
+Search based software engineering has been used to solve many problems in software engineering and as 
+such many different search based algorithms have been utilized for optimizing problems across the full software lifecycle.  
+Solutions range from simple greedy to local heuristic search to evolutionary, population based techniques.  
+Choosing the algorithm to use for a particular problem is a key design decision.  However, an equally important decision, 
+and one that is often less explored, is the design of the search neighborhood and the choice of its transformation operators.  
+In this talk I will discuss some of our experience with varying the neighborhoods and transformation operators for problems 
+such as software test generation and reverse engineering system models. I will show how this important design decision can have a 
+large impact on the quality of a search algorithm for different variants of the same problem, because it fundamentally alters the search landscape.  
+I will also show that while one neighborhood may be superior solving one variation of a problem, it may not work well at all for another variant 
+of the same problem.
+
+<b>Biography:</b> Myra Cohen is a Susan J. Rosowski Professor at the University of Nebraska-Lincoln where she has been a member 
+of the Laboratory for Empirically Based Software Quality Research and Development, ESQuaReD since 2004.  
+Her research expertise is in combinatorial testing and software testing of highly configurable software, 
+software product lines, graphical user interfaces, and self-adaptive software.  
+She regularly utilizes search based software engineering techniques in her research and teaches a graduate course on this topic. 
+She has been a program committee member of many highly regarded software engineering conferences such as ICSE, FSE, ASE, ISSTA and ICST. 
+She was the program co-chair of SSBSE in 2011, the GECCO SBSE track in 2010 and ISSRE in 2013. She was the general chair of ASE in 2015.
 ---
 
 <img src="../images/joachim.jpg" class="keynote_photo" width="200">
