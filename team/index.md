@@ -65,7 +65,7 @@ title: "Team"
 
 ![image-center](/images/gregory.jpg){: .align-center}
 <h3 class="person" markdown="1"><a href="http://www.greggay.com/" target="_blank">Gregory Gay</a></h3>
-<center>University of South California</center>
+<center>University of South Carolina</center>
 
 ---
 
