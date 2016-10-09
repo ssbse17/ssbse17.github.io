@@ -46,9 +46,18 @@ Accepted papers will be published in a volume of the Springer Lecture Notes in C
 
 Research and Student papers accepted for presentation at SSBSE 2017 will be considered for prizes. More details about prizes and travel grants will be announced on the website. 
 
-**Special Issue for Best Papers** 
+**Special Section in IST for Best Papers** 
 
-The authors of best selected papers will be invited to submit extended versions of their papers for a special section in the XX (IST). 
+Following from the conference, a selection of best papers will be invited to submit extended versions for tentative publication in a Special Section of the journal of Information and Software Technology published by Elsevier http://www.elsevier.com/locate/infsof.
+
+**Tutorials** 
+
+2 page proposals for 1 hour tutorials covering state-of-the-art SBSE methods. Proposals must describe what will be presented and why this might be of interest to this community. Proposals will be selected on their novelty, technical content, track record of the presenter and, ideally, degree of interactivity with the audience.
+
+**Transfer talks** 
+
+Invited talks from authors publishing innovative work relevant to SBSE, originally presented at other forums. To nominate speakers for such talks, please email ssbse2017@easychair.org.
+
 
 **Key Dates**
 
