@@ -26,7 +26,7 @@ title: "Team"
 
 ---
 
-<h1 style="text-align: center;" markdown="1">Graduate Student Track Chair</h1>
+<h1 style="text-align: center;" markdown="1">Student & Short Papers Track Chair</h1>
 
 ![image-center](/images/claire.jpg){: .align-center}
 <h3 class="person" markdown="1"><a href="https://clairelegoues.com/" target="_blank">Claire Le Goues</a></h3>
