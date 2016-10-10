@@ -34,7 +34,7 @@ We also invite short papers presenting new ideas, tools, experience reports, or 
 
 **Student Track** 
 
-We also invite students to submit papers to a special Student track. This track gives students the opportunity to showcase their SBSE research and receive feedback from senior members of the SBSE community. Papers submitted to this track should not exceed 6 pages in length using the regular symposium format. To be eligible, papers should be primarily the work of students currently registered on a doctoral or master program that have not yet completed their studies. The paper may have co-authors who are not students but the student author is expected to present the paper at the symposium. 
+We also invite students to submit papers to a special Student track. This track gives students the opportunity to showcase their SBSE research and receive feedback from senior members of the SBSE community. Papers submitted to this track should not exceed 6 pages in length using the regular symposium format. To be eligible, papers should be primarily the work of students that have not yet completed their studies. The paper may have co-authors who are not students but the student author is expected to present the paper at the symposium. 
 
 **SBSE Challenge Track** 
 
