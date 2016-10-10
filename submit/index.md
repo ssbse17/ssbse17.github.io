@@ -108,4 +108,4 @@ RESEARCH PAPER TRACK:
  - Notification                                    June 7, 2017
  - Camera ready: TBD
 
-
+Submission site: <a href="https://easychair.org/conferences/?conf=ssbse2017" target="_blank">https://easychair.org/conferences/?conf=ssbse2017</a>
