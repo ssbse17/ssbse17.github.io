@@ -32,9 +32,9 @@ Research papers must have up to 15 pages in length, including all text, figures,
 
 We also invite short papers presenting new ideas, tools, experience reports, or novel techniques and ideas, which will be included in the proceedings and presented at the symposium. Papers submitted to this track should not exceed 6 pages in length using the regular symposium format. 
 
-**Graduate Student Track** 
+**Student Track** 
 
-We also invite students to submit papers to a special Graduate Student track. This track gives students the opportunity to showcase their SBSE research and receive feedback from senior members of the SBSE community. Papers submitted to this track should not exceed 6 pages in length using the regular symposium format. To be eligible, papers should be primarily the work of students currently registered on a doctoral or master program that have not yet completed their studies. The paper may have co-authors who are not students but the student author is expected to present the paper at the symposium. 
+We also invite students to submit papers to a special Student track. This track gives students the opportunity to showcase their SBSE research and receive feedback from senior members of the SBSE community. Papers submitted to this track should not exceed 6 pages in length using the regular symposium format. To be eligible, papers should be primarily the work of students that have not yet completed their studies. The paper may have co-authors who are not students but the student author is expected to present the paper at the symposium. 
 
 **SBSE Challenge Track** 
 
@@ -71,7 +71,7 @@ RESEARCH PAPER TRACK:
 
  
 
- SHORT PAPER, GRADUATE STUDENT, AND SBSE CHALLENGE TRACKS:
+ SHORT PAPER, STUDENT AND SBSE CHALLENGE TRACKS:
 
  - Submission                                    May 21, 2017
  - Notification                                    June 7, 2017
