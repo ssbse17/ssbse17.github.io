@@ -12,6 +12,9 @@ main:
   - title: "Venue"
     url: /venue
 
+  - title: "Travel and Accommodation"
+    url: /travel_accommodation
+
   - title: "Team"
     url: /team
 
