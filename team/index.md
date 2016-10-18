@@ -82,13 +82,13 @@ title: "Team"
 Andrea Arcuri, Scienta - University of Luxembourg, Norway   
 Claire Le Goues, Carnegie Mellon University, USA   
 Federica Sarro, University College London, UK  
+Gregory Gay, University of South Carolina, USA
 Gordon Fraser, University of Sheffield, UK   
 Jerffeson Teixeira de Souza, Ceará State University, Brazil    
 Márcio de Oliveira Barros, Federal University of the State of Rio de Janeiro, Brazil   
+Marouane Kessentini, University of Michigan, USA                       
+Mohamed Wiem, University of Michigan, USA                                  
 Shin Yoo, Korea Advanced Institute of Science and Technology, South Korea   
-Mark Harman, University College London, UK (until 2016)   
-David White, University College London, UK (until 2016)   
-Yuanyuan Zhang, University College London, UK (until 2016)
 
 ---
 
@@ -119,5 +119,5 @@ Yuanyuan Zhang, University College London, UK (until 2016)
 <li><em>Pasqualina Potena</em> <a href="https://www.sics.se/people/pasqualina-potena">SICS Swedish ICT Vasteres AB</a></li>
 <li><em>Phil McMinn</em> <a href="http://philmcminn.staff.shef.ac.uk">University of Sheffield</a></li>
 <li><em>Shin Yoo</em> <a href="">Korea Advanced Institute of Science and Technology</a></li>
-<li><em>Thelma E. Colanzi</em> <a href="">State University of Maring</a></li>
+<li><em>Thelma E. Colanzi</em> <a href="">State University of Maringa</a></li>
 </ul>
