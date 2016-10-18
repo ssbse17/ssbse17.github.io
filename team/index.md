@@ -82,7 +82,7 @@ title: "Team"
 Andrea Arcuri, Scienta - University of Luxembourg, Norway   
 Claire Le Goues, Carnegie Mellon University, USA   
 Federica Sarro, University College London, UK  
-Gregory Gay, University of South Carolina, USA
+Gregory Gay, University of South Carolina, USA  
 Gordon Fraser, University of Sheffield, UK   
 Jerffeson Teixeira de Souza, Ceará State University, Brazil    
 Márcio de Oliveira Barros, Federal University of the State of Rio de Janeiro, Brazil   
