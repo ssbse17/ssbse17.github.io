@@ -38,7 +38,7 @@ title: "Team"
 
 ![image-center](/images/tanja.png){: .align-center}
 <h3 class="person" markdown="1"><a href="http://tanjavos.com/" target="_blank">Tanja Vos</a></h3>
-<center>Open Universiteit, The Netherlands</center>
+<center>Open Universiteit in the Netherlands</center>
 
 ![image-center](/images/david.jpg){: .align-center}
 <h3 class="person" markdown="1"><a href="http://www.davidrwhite.co.uk/" target="_blank">David R. White</a></h3>
@@ -82,7 +82,7 @@ title: "Team"
 Andrea Arcuri, Scienta - University of Luxembourg, Norway   
 Claire Le Goues, Carnegie Mellon University, USA   
 Federica Sarro, University College London, UK  
-Gregory Gay, University of South Carolina, USA
+Gregory Gay, University of South Carolina, USA  
 Gordon Fraser, University of Sheffield, UK   
 Jerffeson Teixeira de Souza, Ceará State University, Brazil    
 Márcio de Oliveira Barros, Federal University of the State of Rio de Janeiro, Brazil   
