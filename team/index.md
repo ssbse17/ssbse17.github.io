@@ -9,7 +9,7 @@ title: "Team"
 <h1 style="text-align: center;" markdown="1">General Chair</h1>
 
 ![image-center](/images/lars.jpg){: .align-center}
-<h3 class="person" markdown="1"><a href="http://www.iste.uni-stuttgart.de/rss/people/alumni/grunske.html" target="_blank">Lars Grunske</a></h3>
+<h3 class="person" markdown="1"><a href="https://www.informatik.hu-berlin.de/de/Members/lars-grunske" target="_blank">Lars Grunske</a></h3>
 <center>Humboldt University of Berlin</center>
 
 ---
