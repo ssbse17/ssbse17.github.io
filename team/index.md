@@ -38,7 +38,7 @@ title: "Team"
 
 ![image-center](/images/tanja.png){: .align-center}
 <h3 class="person" markdown="1"><a href="http://tanjavos.com/" target="_blank">Tanja Vos</a></h3>
-<center>University of Valencia</center>
+<center>Open Universiteit, The Netherlands</center>
 
 ![image-center](/images/david.jpg){: .align-center}
 <h3 class="person" markdown="1"><a href="http://www.davidrwhite.co.uk/" target="_blank">David R. White</a></h3>
