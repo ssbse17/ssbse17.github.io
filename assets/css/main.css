@@ -1719,7 +1719,7 @@ float:left;
 margin-left:0;
 margin-right:0}
 }
-@media (min-width: 64em){
+@media (min-width: 40em){
 .archive{
 width:83.05085%;
 float:right;
@@ -1934,7 +1934,7 @@ margin-bottom:1em}
 clear:both;
 content:"";
 display:table}
-@media (min-width: 64em){
+@media (min-width: 40em){
 .sidebar{
 width:15.25424%;
 float:left;
