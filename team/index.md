@@ -56,8 +56,8 @@ title: "Team"
 <h1 style="text-align: center;" markdown="1">Proceedings Chair</h1>
 
 ![image-center](/images/sinem.jpg){: .align-center}
-<h3 class="person" markdown="1"><a href="http://www.iste.uni-stuttgart.de/rss/people/getir.html" target="_blank">Sinem Getir</a></h3>
-<center>University of Stuttgart</center>
+<h3 class="person" markdown="1"><a href="https://www.informatik.hu-berlin.de/de/institut/mitarbeiter/1689441" target="_blank">Sinem Getir</a></h3>
+<center>Humboldt-Universität zu Berlin</center>
 
 ---
 
