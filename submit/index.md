@@ -8,6 +8,8 @@ title: "Call for Papers"
 co-located with ESEC/FSE'17 Paderborn, Germany, September 9-11, 2017   
 http://ssbse17.github.io </b>
 
+Submission site: <a href="https://easychair.org/conferences/?conf=ssbse2017" target="_blank">https://easychair.org/conferences/?conf=ssbse2017</a>
+
 **Research Paper Track**
 
 We invite the submission of high quality papers describing novel and original work in all areas of Search-Based Software Engineering including, but not limited to
@@ -76,7 +78,7 @@ RESEARCH PAPER TRACK:
  - Notification                                    June 7, 2017
  - Camera ready: TBD
 
-Submission site: <a href="https://easychair.org/conferences/?conf=ssbse2017" target="_blank">https://easychair.org/conferences/?conf=ssbse2017</a>
+
 
 **GENERAL INFORMATION AND FORMAT**
 
