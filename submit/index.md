@@ -10,6 +10,23 @@ http://ssbse17.github.io </b>
 
 Submission site: <a href="https://easychair.org/conferences/?conf=ssbse2017" target="_blank">https://easychair.org/conferences/?conf=ssbse2017</a>
 
+**Key Dates**
+
+RESEARCH PAPER TRACK:
+
+- Abstract submission                      March 31, 2017
+- Paper Submission                            April 7, 2017 
+- Notification                                     May 14, 2017
+- Camera Ready                                June 14, 2017
+
+ 
+
+ SHORT PAPER, STUDENT AND SBSE CHALLENGE TRACKS:
+
+ - Submission                                    May 21, 2017
+ - Notification                                    June 7, 2017
+ - Camera ready: TBD
+
 **Research Paper Track**
 
 We invite the submission of high quality papers describing novel and original work in all areas of Search-Based Software Engineering including, but not limited to
@@ -93,21 +110,6 @@ Papers must be formatted according to the LNCS instructions (<a href="http://www
 
 Authors of accepted papers will be able to modify the text to de-anonymize for the camera-ready version of their papers. Feel free to contact the PC chairs (Tim Menzies and Justyna Petke) if you have any questions or concerns.
 
-**Key Dates**
 
-RESEARCH PAPER TRACK:
-
-- Abstract submission                      March 31, 2017
-- Paper Submission                            April 7, 2017 
-- Notification                                     May 14, 2017
-- Camera Ready                                June 14, 2017
-
- 
-
- SHORT PAPER, STUDENT AND SBSE CHALLENGE TRACKS:
-
- - Submission                                    May 21, 2017
- - Notification                                    June 7, 2017
- - Camera ready: TBD
 
 Submission site: <a href="https://easychair.org/conferences/?conf=ssbse2017" target="_blank">https://easychair.org/conferences/?conf=ssbse2017</a>
