@@ -10,6 +10,8 @@ http://ssbse17.github.io </b>
 
 Submission site: <a href="https://easychair.org/conferences/?conf=ssbse2017" target="_blank">https://easychair.org/conferences/?conf=ssbse2017</a>
 
+____
+
 **Key Dates**
 
 RESEARCH PAPER TRACK:
@@ -26,6 +28,8 @@ RESEARCH PAPER TRACK:
  - Submission                                    May 21, 2017
  - Notification                                    June 7, 2017
  - Camera ready: TBD
+
+____
 
 **Research Paper Track**
 
@@ -45,25 +49,37 @@ We particularly encourage papers that report on software engineering application
 
 Research papers must have up to 15 pages in length, including all text, figures, references and appendices. 
 
+____
+
 **Short Paper Track** 
 
 We also invite short papers presenting new ideas, tools, experience reports, or novel techniques and ideas, which will be included in the proceedings and presented at the symposium. Papers submitted to this track should not exceed 6 pages in length using the regular symposium format. 
+
+____
 
 **Student Track** 
 
 We also invite students to submit papers to a special Student track. This track gives students the opportunity to showcase their SBSE research and receive feedback from senior members of the SBSE community. Papers submitted to this track should not exceed 6 pages in length using the regular symposium format. To be eligible, papers should be primarily the work of students that have not yet completed their studies. The paper may have co-authors who are not students but the student author is expected to present the paper at the symposium. 
 
+____
+
 **SBSE Challenge Track** 
 
 We challenge everyone interested in SBSE to apply tools, techniques, and algorithms to our selected problems. We want you to apply your SBSE expertise to do interesting things to or with the software and uncover interesting things related to it. The best competition entries will be awarded special prizes. Challenge papers should not exceed 6 pages in length using the regular symposium format. More details about the track will be announced on the website.
+
+____
 
 **Tutorials** 
 
 2 page proposals for 1 hour tutorials covering state-of-the-art SBSE methods. Proposals must describe what will be presented and why this might be of interest to this community. Proposals will be selected on their novelty, technical content, track record of the presenter and, ideally, degree of interactivity with the audience.
 
+____
+
 **Transfer talks** 
 
 Invited talks from authors publishing innovative work relevant to SBSE, originally presented at other forums. To nominate speakers for such talks, please email ssbse2017@easychair.org.
+
+____
 
 **Conference Proceedings** 
 
