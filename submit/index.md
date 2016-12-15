@@ -14,14 +14,17 @@ ____
 
 **Key Dates**
 
+TUTORIALS:
+
+- Tutorial Proposals                      February 14, 2017
+- Tutorials Selected                      February 28, 2017
+
 RESEARCH PAPER TRACK:
 
 - Abstract submission                      March 31, 2017
 - Paper Submission                            April 7, 2017 
 - Notification                                     May 14, 2017
 - Camera Ready                                June 14, 2017
-
- 
 
  SHORT PAPER, STUDENT AND SBSE CHALLENGE TRACKS:
 
