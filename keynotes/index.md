@@ -6,9 +6,9 @@ title: "Keynote Speakers"
 
 <link rel="stylesheet" href="../css/keynotes.css">
 
-<img src="../images/myra.jpg" class="keynote_photo" width="200">
+<a href="http://cse.unl.edu/~myra/index.html" target="_blank"><img src="../images/myra.jpg" class="keynote_photo" width="200"></a>
 
-<center><h2><a href="http://cse.unl.edu/~myra/index.html">Prof. Myra B. Cohen</a></h2></center>
+<center><h2>Prof. Myra B. Cohen</h2></center>
 
 <b>Title: The Grass isn’t Always Greener:  A Changing Neighborhood and Varying Landscape  </b>
 
