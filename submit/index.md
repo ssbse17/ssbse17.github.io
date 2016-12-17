@@ -32,6 +32,8 @@ RESEARCH PAPER TRACK:
  - Notification                                    June 7, 2017
  - Camera ready: TBD
 
+To propose a tutorial, please email <a href="mailto:ssbse2017@easychair.org" target="_top">ssbse2017@easychair.org</a>
+
 ____
 
 **Research Paper Track**
