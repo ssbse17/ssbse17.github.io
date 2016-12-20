@@ -79,7 +79,7 @@ title: "Team"
 
 <h1 style="text-align: left;" markdown="1">Steering Committee</h1>
 
-Andrea Arcuri, Scienta - University of Luxembourg, Norway   
+Andrea Arcuri, Westerdals, Norway   
 Claire Le Goues, Carnegie Mellon University, USA   
 Federica Sarro, University College London, UK  
 Gregory Gay, University of South Carolina, USA  
