@@ -105,7 +105,7 @@ Shin Yoo, Korea Advanced Institute of Science and Technology, South Korea
 <li><em>Francisco Chicano</em> <a href="http://www.franciscochicano.es">University of Molaga</a></li>
 <li><em>Giuliano Antoniol</em> <a href="http://web.soccerlab.polymtl.ca/~antoniol/">Ecole Polytechnique de Montreal</a></li>
 <li><em>Gregory Gay</em> <a href="">University of South Carolina</a></li>
-<li><em>Guenther Ruhe</em> <a href="">Univ of Calgary</a></li>
+<li><em>Guenther Ruhe</em> <a href="">University of Calgary</a></li>
 <li><em>Hadi Hemmati</em> <a href="">University of Manitoba</a></li>
 <li><em>Jerffeson Souza</em> <a href="">State University of Ceara</a></li>
 <li><em>Juan Pablo Galeotti</em> <a href="http://www.dc.uba.ar/~jgaleotti">University of Buenos Aires</a></li>
