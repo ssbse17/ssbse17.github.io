@@ -104,7 +104,7 @@ Shin Yoo, Korea Advanced Institute of Science and Technology, South Korea
 <li><em>Federica Sarro</em> <a href="">University College London</a></li>
 <li><em>Francisco Chicano</em> <a href="http://www.franciscochicano.es">University of Molaga</a></li>
 <li><em>Giuliano Antoniol</em> <a href="http://web.soccerlab.polymtl.ca/~antoniol/">Ecole Polytechnique de Montreal</a></li>
-<li><em>Gregory Gay</em> <a href="">University of South Carolina</a></li>
+<li><em>Gregory Gay</em> <a href="http://www.greggay.com/">University of South Carolina</a></li>
 <li><em>Guenther Ruhe</em> <a href="">University of Calgary</a></li>
 <li><em>Hadi Hemmati</em> <a href="">University of Manitoba</a></li>
 <li><em>Jerffeson Souza</em> <a href="">State University of Ceara</a></li>
@@ -112,7 +112,7 @@ Shin Yoo, Korea Advanced Institute of Science and Technology, South Korea
 <li><em>Leandro Minku</em> <a href="">University of Leicester</a></li>
 <li><em>Leonardo Bottaci</em> <a href="">University of Hull</a></li>
 <li><em>Marcio Barros</em> <a href="http://www.uniriotec.br/~marcio.barros">UNIRIO</a></li>
-<li><em>Mark Harman</em> <a href="http://www.cs.ucl.ac.uk/staff/mharman">University college london</a></li>
+<li><em>Mark Harman</em> <a href="http://www.cs.ucl.ac.uk/staff/mharman">University College London</a></li>
 <li><em>Marouane Kessentini</em> <a href="">University of Michigan</a></li>
 <li><em>Massimiliano Di Penta</em> <a href="http://www.ing.unisannio.it/mdipenta">University of Sannio</a></li>
 <li><em>Muhammad Zohaib Iqbal</em> <a href="http://isb.nu.edu.pk/zohaib">National University of Computer & Emerging Sciences</a></li>
