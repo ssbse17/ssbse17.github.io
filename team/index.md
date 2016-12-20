@@ -99,7 +99,7 @@ Shin Yoo, Korea Advanced Institute of Science and Technology, South Korea
 <li><em>Tim Menzies</em> <a href="http://menzies.us">NC State</a> <b>co-PC CHAIR</b></li>
 <li><em>Aldeida Aleti</em> <a href="http://users.monash.edu.au/~aldeidaa/">Monash University</a></li>
 <li><em>Alessandro Marchetto</em> <a href="">Centro Ricerche FIAT - CRF</a></li>
-<li><em>Andrea Arcuri</em> <a href="http://arcuriandrea.org/">Scienta, Univesity of Luxemburg</a></li>
+<li><em>Andrea Arcuri</em> <a href="http://arcuriandrea.org/">Westerlands</a></li>
 <li><em>Anne Koziolek</em> <a href="http://sdq.ipd.kit.edu/people/anne_koziolek">Karlsruhe Institute of Technology</a></li>
 <li><em>Federica Sarro</em> <a href="">University College London</a></li>
 <li><em>Francisco Chicano</em> <a href="http://www.franciscochicano.es">University of Molaga</a></li>
