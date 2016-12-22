@@ -79,45 +79,45 @@ title: "Team"
 
 <h1 style="text-align: left;" markdown="1">Steering Committee</h1>
 
-Andrea Arcuri, Westerdals, Norway   
-Claire Le Goues, Carnegie Mellon University, USA   
-Federica Sarro, University College London, UK  
-Gregory Gay, University of South Carolina, USA  
-Gordon Fraser, University of Sheffield, UK   
-Jerffeson Teixeira de Souza, Ceará State University, Brazil    
-Márcio de Oliveira Barros, Federal University of the State of Rio de Janeiro, Brazil   
-Marouane Kessentini, University of Michigan, USA                       
-Mohamed Wiem, University of Michigan, USA                                  
-Shin Yoo, Korea Advanced Institute of Science and Technology, South Korea   
+<a href="http://folk.uio.no/arcuri/" target="_blank">Andrea Arcuri</a>, Westerdals, Norway   
+<a href="https://clairelegoues.com/" target="_blank">Claire Le Goues</a>, Carnegie Mellon University, USA   
+<a href="http://www0.cs.ucl.ac.uk/staff/F.Sarro/" target="_blank">Federica Sarro</a>, University College London, UK  
+<a href="http://www.greggay.com/" target="_blank">Gregory Gay</a>, University of South Carolina, USA  
+<a href="http://staffwww.dcs.shef.ac.uk/people/G.Fraser/" target="_blank">Gordon Fraser</a>, University of Sheffield, UK   
+<a href="http://goes.uece.br/en/team.html" target="_blank">Jerffeson Teixeira de Souza</a>, Ceará State University, Brazil    
+<a href="http://www.uniriotec.br/~marcio.barros/" target="_blank">Márcio de Oliveira Barros</a>, Federal University of the State of Rio de Janeiro, Brazil   
+<a href="http://www-personal.umd.umich.edu/~marouane/" target="_blank">Marouane Kessentini</a>, University of Michigan, USA                       
+<a href="http://mkaouer.net/" target="_blank">Mohamed Wiem</a>, University of Michigan, USA                                  
+<a href="http://coinse.kaist.ac.kr/members/shin.yoo/" target="_blank">Shin Yoo</a>, Korea Advanced Institute of Science and Technology, South Korea   
 
 ---
 
 <h1 style="text-align: left;" markdown="1">Program Committee</h1>
 
 <ul>
-<li><em>Justyna Petke</em> <a href="">University College London</a> <b>co-PC CHAIR</b></li>
-<li><em>Tim Menzies</em> <a href="http://menzies.us">NC State</a> <b>co-PC CHAIR</b></li>
-<li><em>Aldeida Aleti</em> <a href="http://users.monash.edu.au/~aldeidaa/">Monash University</a></li>
-<li><em>Alessandro Marchetto</em> <a href="">Centro Ricerche FIAT - CRF</a></li>
-<li><em>Andrea Arcuri</em> <a href="http://arcuriandrea.org/">Westerlands</a></li>
-<li><em>Anne Koziolek</em> <a href="http://sdq.ipd.kit.edu/people/anne_koziolek">Karlsruhe Institute of Technology</a></li>
-<li><em>Federica Sarro</em> <a href="">University College London</a></li>
-<li><em>Francisco Chicano</em> <a href="http://www.franciscochicano.es">University of Molaga</a></li>
-<li><em>Giuliano Antoniol</em> <a href="http://web.soccerlab.polymtl.ca/~antoniol/">Ecole Polytechnique de Montreal</a></li>
-<li><em>Gregory Gay</em> <a href="http://www.greggay.com/">University of South Carolina</a></li>
-<li><em>Guenther Ruhe</em> <a href="">University of Calgary</a></li>
-<li><em>Hadi Hemmati</em> <a href="">University of Manitoba</a></li>
-<li><em>Jerffeson Souza</em> <a href="">State University of Ceara</a></li>
-<li><em>Juan Pablo Galeotti</em> <a href="http://www.dc.uba.ar/~jgaleotti">University of Buenos Aires</a></li>
-<li><em>Leandro Minku</em> <a href="">University of Leicester</a></li>
-<li><em>Leonardo Bottaci</em> <a href="">University of Hull</a></li>
-<li><em>Marcio Barros</em> <a href="http://www.uniriotec.br/~marcio.barros">UNIRIO</a></li>
-<li><em>Mark Harman</em> <a href="http://www.cs.ucl.ac.uk/staff/mharman">University College London</a></li>
-<li><em>Marouane Kessentini</em> <a href="">University of Michigan</a></li>
-<li><em>Massimiliano Di Penta</em> <a href="http://www.ing.unisannio.it/mdipenta">University of Sannio</a></li>
-<li><em>Muhammad Zohaib Iqbal</em> <a href="http://isb.nu.edu.pk/zohaib">National University of Computer & Emerging Sciences</a></li>
-<li><em>Pasqualina Potena</em> <a href="https://www.sics.se/people/pasqualina-potena">SICS Swedish ICT Vasteres AB</a></li>
-<li><em>Phil McMinn</em> <a href="http://philmcminn.staff.shef.ac.uk">University of Sheffield</a></li>
-<li><em>Shin Yoo</em> <a href="">Korea Advanced Institute of Science and Technology</a></li>
-<li><em>Thelma E. Colanzi</em> <a href="">State University of Maringa</a></li>
+<li><em><a href="http://www0.cs.ucl.ac.uk/staff/J.Petke/" target="_blank">Justyna Petke</a></em> University College London <b>co-PC CHAIR</b></li>
+<li><em><a href="http://menzies.us" target="_blank">Tim Menzies</a></em> NC State <b>co-PC CHAIR</b></li>
+<li><em><a href="http://users.monash.edu.au/~aldeidaa/" target="_blank">Aldeida Aleti</a></em> Monash University</li>
+<li><em>Alessandro Marchetto</em> Centro Ricerche FIAT - CRF</li>
+<li><em><a href="http://folk.uio.no/arcuri/" target="_blank">Andrea Arcuri</a></em> Westerdals</li>
+<li><em><a href="http://sdq.ipd.kit.edu/people/anne_koziolek/" target="_blank">Anne Koziolek</a></em> Karlsruhe Institute of Technology</li>
+<li><em><a href="http://www0.cs.ucl.ac.uk/staff/F.Sarro/" target="_blank">Federica Sarro</a></em> University College London</li>
+<li><em><a href="http://neo.lcc.uma.es/staff/francis/english/index_en.html" target="_blank">Francisco Chicano</a></em> University of Malaga</li>
+<li><em><a href="http://www.antoniol.net/" target="_blank">Giuliano Antoniol</a></em> Ecole Polytechnique de Montreal</li>
+<li><em><a href="http://www.greggay.com/" target="_blank">Gregory Gay</a></em> University of South Carolina</li>
+<li><em><a href="http://ruhe.cpsc.ucalgary.ca/" target="_blank">Guenther Ruhe</a></em> University of Calgary</li>
+<li><em><a href="http://sealab.cs.umanitoba.ca/?page_id=149" target="_blank">Hadi Hemmati</a></em> University of Manitoba</li>
+<li><em><a href="http://goes.uece.br/en/team.html" target="_blank">Jerffeson Souza</a></em> State University of Ceara</li>
+<li><em><a href="http://lafhis.dc.uba.ar/en/~jgaleotti" target="_blank">Juan Pablo Galeotti</a></em> University of Buenos Aires</li>
+<li><em><a href="http://www.cs.le.ac.uk/people/llm11/" target="_blank">Leandro Minku</a></em> University of Leicester</li>
+<li><em><a href="http://www2.hull.ac.uk/science/computer_science/our_staff/staff_profiles/len_bottaci.aspx" target="_blank">Leonardo Bottaci</a></em> University of Hull</li>
+<li><em><a href="http://www.uniriotec.br/~marcio.barros/" target="_blank">Marcio Barros</a></em> Federal University of the State of Rio de Janeiro</li>
+<li><em><a href="http://www0.cs.ucl.ac.uk/staff/mharman/" target="_blank">Mark Harman</a></em> University College London</li>
+<li><em><a href="http://www-personal.umd.umich.edu/~marouane/" target="_blank">Marouane Kessentini</a></em> University of Michigan</li>
+<li><em><a href="http://www.ing.unisannio.it/mdipenta/" target="_blank">Massimiliano Di Penta</a></em> University of Sannio</li>
+<li><em><a href="http://isb.nu.edu.pk/zohaib/" target="_blank">Muhammad Zohaib Iqbal</a></em> National University of Computer & Emerging Sciences</li>
+<li><em><a href="https://www.sics.se/people/pasqualina-potena" target="_blank">Pasqualina Potena</a></em> SICS Swedish ICT Vasteres AB</li>
+<li><em><a href="http://mcminn.io/" target="_blank">Phil McMinn</a></em> University of Sheffield</li>
+<li><em><a href="http://coinse.kaist.ac.kr/members/shin.yoo/" target="_blank">Shin Yoo</a></em> Korea Advanced Institute of Science and Technology</li>
+<li><em><a href="http://www.din.uem.br/~teclopes/" target="_blank">Thelma E. Colanzi</a></em> State University of Maringa</li>
 </ul>
