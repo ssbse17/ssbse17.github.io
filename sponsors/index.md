@@ -8,9 +8,7 @@ title: "Invitation to sponsor SSBSE'17"
 
 SSBSE is the premier international research symposium on Search-based Software Engineering.
 
-Benefits and prices for four support levels are listed in the table below. Additional benefits or support levels may be negotiated. Please contact the general chair Lars Grunske <a href="https://easychair.org/conferences/?conf=ssbse2017" target="_blank">https://easychair.org/conferences/?conf=ssbse2017</a>
-<a href="https://www.informatik.hu-berlin.de/de/Members/lars-grunske" target="_blank"> (personal home page)</a>
-.
+Benefits and prices for four support levels are listed in the table below. Additional benefits or support levels may be negotiated. Please contact the general chair Lars Grunske <a href="https://www.informatik.hu-berlin.de/de/Members/lars-grunske" target="_blank"> (personal home page)</a>.
 
 <table id="sponsors-table">
    <thead>
