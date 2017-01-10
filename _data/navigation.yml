@@ -6,9 +6,6 @@ main:
   - title: "Keynotes"
     url: /keynotes
 
-  - title: "Tutorials"
-    url: /tutorials
-
   - title: "Program"
     url: /program
 
