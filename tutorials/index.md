@@ -21,7 +21,7 @@ His H index is 30, and his papers have more than 3250 citations. He is one of th
 
 ---
 
-<a href="http://researchers.lille.inria.fr/~brockhof/" target="_blank"><img src="../images/dimo.png" class="keynote_photo" width="200"></a>
+<a href="http://researchers.lille.inria.fr/~brockhof/" target="_blank"><img src="../images/dimo.jpg" class="keynote_photo" width="200"></a>
 
 <center><h2>Dr. Dimo Brockhoff</h2></center>
 
