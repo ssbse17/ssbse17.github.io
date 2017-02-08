@@ -12,6 +12,9 @@ title: "Tutorials"
 
 <b>Title: Multi-objective optimization with the jMetal framework. Applications to SBSE</b>
 
+<b>Abstract:</b>
+jMetal is a Java-based framework for multi-objective optimization with metaheuristics which has become popular in some disciplines, including Search Based Software Engineering (SBSE). In this tutorial, we give a practical overview of the main jMetal components (algorithms, encodings, problems, operators, experiments, quality indicators), focusing on how to configure and run some of the included algorithms and also on how to incorporate new solution representations and problems. We give examples of classical algorithms but also more modern techniques, including preference-based metaheuristics. Some SBSE problems will be used as case studies.
+
 <b>Biography:</b> 
 Antonio J. Nebro received his M.S. and Ph.D. degrees in Computer Science from the University of Malaga, Spain, in 1992 and 1999, respectively. He is currently 
 an Associate Professor of Computer Science at the University of Malaga, Spain. His current research activity is related to multi-objective optimization techniques, 
