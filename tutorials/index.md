@@ -16,6 +16,7 @@ List of tutorials:
 <li> Algorithms: <a href="#algo">Multiobjective optimizers and How to benchmark them</a></li>
 <li> Applications: <a href="#gui">MOEA for designing GUIS</a></li>
 </ul>
+__________________
 
 <a href="http://www.lcc.uma.es/~antonio/" target="_blank"><img src="../images/antonio.png" class="keynote_photo" width="200"></a>
 
@@ -65,7 +66,7 @@ Benchmarking workshops at CEC 2015 and at GECCO 2013, 2015, and 2016.
 
 ---
 
-<a href="http://www.ict.tuwien.ac.at/kaindl" target="_blank"><img src="../images/dimo.jpg" class="keynote_photo" width="200"></a>
+<a href="http://www.ict.tuwien.ac.at/kaindl" target="_blank"><img src="https://chessprogramming.wikispaces.com/file/view/Kaindl_Hermann.jpg/321639194/Kaindl_Hermann.jpg" class="keynote_photo" width="200"></a>
 
 <a name="algo"><center><h2>Dr. Hermann Kaindl </h2></center></a>
 
