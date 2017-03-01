@@ -14,7 +14,7 @@ List of tutorials:
 <li>Tools for testing: <a href="#evosuote">EVOSUITE</a></li>
 </ul>
 <li> Algorithms: <a href="#algo">Multiobjective optimizers and How to benchmark them</a></li>
-<li> Applications: <a href="#gui">MOEA for designing GUIS</a></li>
+<li> Applications: <a href="#gui">MOEA for designing GUIs and CyperPhysical Systems</a></li>
 </ul>
 __________________
 
