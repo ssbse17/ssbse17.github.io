@@ -6,17 +6,8 @@ title: "Tutorials"
 
 <link rel="stylesheet" href="../css/keynotes.css">
 
-List of tutorials:
-<ul>
-<li> Tools:
-<ul>
-<li>General workbenches: <a href="#jmetal">Multi-objective optimization with the jMetal</a></li>
-<li>Tools for testing: <a href="#evosuote">EVOSUITE</a></li>
-</ul>
-<li> Algorithms: <a href="#algo">Multiobjective optimizers and How to benchmark them</a></li>
-<li> Applications: <a href="#gui">MOEA for designing GUIs and CyperPhysical Systems</a></li>
-</ul>
-__________________
+ 
+
 
 <a href="http://www.lcc.uma.es/~antonio/" target="_blank"><img src="../images/antonio.png" class="keynote_photo" width="200"></a>
 
