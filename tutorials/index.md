@@ -11,7 +11,7 @@ title: "Tutorials"
 
 <a href="http://www.lcc.uma.es/~antonio/" target="_blank"><img src="../images/antonio.png" class="keynote_photo" width="200"></a>
 
-<a name="jmetal"><center><h2>Prof. Antonio J. Nebro</h2></center></a>
+<center><h2>Prof. Antonio J. Nebro</h2></center>
 
 <b>Title: Multi-objective optimization with the jMetal framework. Applications to SBSE</b>
 
@@ -29,7 +29,7 @@ His H index is 30, and his papers have more than 3250 citations. He is one of th
 
 <a href="http://researchers.lille.inria.fr/~brockhof/" target="_blank"><img src="../images/dimo.jpg" class="keynote_photo" width="200"></a>
 
-<a name="algo"><center><h2>Dr. Dimo Brockhoff</h2></center></a>
+<center><h2>Dr. Dimo Brockhoff</h2></center>
 
 <b>Title: Algorithms for Multiobjective Optimization and How to Benchmark Them</b>
 
@@ -59,7 +59,7 @@ Benchmarking workshops at CEC 2015 and at GECCO 2013, 2015, and 2016.
 
 <a href="http://www.ict.tuwien.ac.at/kaindl" target="_blank"><img src="https://chessprogramming.wikispaces.com/file/view/Kaindl_Hermann.jpg/321639194/Kaindl_Hermann.jpg" class="keynote_photo" width="200"></a>
 
-<a name="algo"><center><h2>Dr. Hermann Kaindl </h2></center></a>
+ <center><h2>Dr. Hermann Kaindl </h2></center> 
 
 <b>Title: Optimization Search for GUIs and Cyber‐physical Systems </b>
 
