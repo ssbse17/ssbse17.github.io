@@ -6,9 +6,20 @@ title: "Tutorials"
 
 <link rel="stylesheet" href="../css/keynotes.css">
 
+List of tutorials:
+<ul>
+<li> Tools:
+<ul>
+<li>General workbenches: <a href="#jmetal">Multi-objective optimization with the jMetal</a></li>
+<li>Tools for testing: <a href="#evosuote">EVOSUITE</a></li>
+</ul>
+<li> Algorithms: <a href="#algo">Multiobjective optimizers and How to benchmark them</a></li>
+<li> Applications: <a href="#gui">MOEA for designing GUIS</a></li>
+</ul>
+
 <a href="http://www.lcc.uma.es/~antonio/" target="_blank"><img src="../images/antonio.png" class="keynote_photo" width="200"></a>
 
-<center><h2>Prof. Antonio J. Nebro</h2></center>
+<a name="jmetal"><center><h2>Prof. Antonio J. Nebro</h2></center></a>
 
 <b>Title: Multi-objective optimization with the jMetal framework. Applications to SBSE</b>
 
@@ -26,7 +37,7 @@ His H index is 30, and his papers have more than 3250 citations. He is one of th
 
 <a href="http://researchers.lille.inria.fr/~brockhof/" target="_blank"><img src="../images/dimo.jpg" class="keynote_photo" width="200"></a>
 
-<center><h2>Dr. Dimo Brockhoff</h2></center>
+<a name="algo"><center><h2>Dr. Dimo Brockhoff</h2></center></a>
 
 <b>Title: Algorithms for Multiobjective Optimization and How to Benchmark Them</b>
 
@@ -51,5 +62,40 @@ been involved in the co-organization of several special issues and workshops
 around these topics such as the "SIMCO" and "SAMCO" workshops at the Lorentz
 center in the Netherlands in 2013 and 2016 and the Blackbox Optimization
 Benchmarking workshops at CEC 2015 and at GECCO 2013, 2015, and 2016.
+
+---
+
+<a href="http://www.ict.tuwien.ac.at/kaindl" target="_blank"><img src="../images/dimo.jpg" class="keynote_photo" width="200"></a>
+
+<a name="algo"><center><h2>Dr. Hermann Kaindl </h2></center></a>
+
+<b>Title: Optimization Search for GUIs and Cyber‐physical Systems </b>
+
+<b>Abstract:</b>
+This tutorial presents and contrasts two different optimization search approaches studied by this proposer for auto‐
+mated GUI generation and for feature interactions in cyber‐physical automotive systems.  
+
+Providing several GUIs tailored for multiple devices (desktop PCs, tablet PCs and smartphones) is desirable but expensive, and it takes time. Our new approach just requires a device specification with a few parameters for automated GUI 
+tailoring in the course of design‐time generation from the same high‐level interaction design model. This tailoring is 
+implemented as heuristic optimization search. 
+
+With increasing numbers of features in automotive systems, feature interaction (FI) becomes more and more relevant 
+regarding safety and emissions. Our new approach for optimization of feature interactions integrates an optimization 
+objective (minimize CO 2  emission) with both soft and hard constraints (e.g., related to certain temperatures). 
+In the 
+course of iterations of hill‐climbing optimization at run‐time, the integrating objective function is dynamically adapted 
+for heuristic coordination of FIs. 
+
+These approaches will be contrasted primarily in terms of the very different application domains and, more fundamen‐
+tally, regarding design‐time vs. run‐time optimization with their very different requirements.
+
+<b>Biography:</b> 
+Hermann Kaindl joined the Institute of Computer Technology at TU Wien in Vienna, Austria, in early 2003 as a full professor. Prior to moving to academia, he was a senior consultant with the division of program and systems engineering 
+at  Siemens  Austria.  There  he  has  gained  more  than  24  years  of  industrial  experience  in  software  development  and 
+human‐computer interaction. He has published five books and more than 220 papers in refereed journals, books and 
+conference proceedings. He is a Senior Member of the IEEE and a Distinguished Scientist Member of the ACM, and he is 
+on the executive board of the Austrian Society for Artificial Intelligence. 
+In the past, Hermann Kaindl published his basic research on Heuristic Search in Artificial Intelligence in the AIJ, several 
+IEEE Transactions, and in many Conference Proceedings of IJCAIs, AAAIs and ECAIs
 
 ---
