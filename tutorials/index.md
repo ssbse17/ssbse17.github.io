@@ -59,35 +59,20 @@ Benchmarking workshops at CEC 2015 and at GECCO 2013, 2015, and 2016.
 
 <a href="http://www.ict.tuwien.ac.at/kaindl" target="_blank"><img src="https://chessprogramming.wikispaces.com/file/view/Kaindl_Hermann.jpg/321639194/Kaindl_Hermann.jpg" class="keynote_photo" width="200"></a>
 
- <center><h2>Dr. Hermann Kaindl </h2></center> 
+<center><h2>Dr. Hermann Kaindl</h2></center> 
 
-<b>Title: Optimization Search for GUIs and Cyber‐physical Systems </b>
+<b>Title: Optimization Search for GUIs and Cyber‐physical Systems</b>
 
 <b>Abstract:</b>
-This tutorial presents and contrasts two different optimization search approaches studied by this proposer for auto‐
-mated GUI generation and for feature interactions in cyber‐physical automotive systems.  
+This tutorial presents and contrasts two different optimization search approaches studied by this propose for automated GUI generation and for feature interactions in cyber‐physical automotive systems.  
 
-Providing several GUIs tailored for multiple devices (desktop PCs, tablet PCs and smartphones) is desirable but expensive, and it takes time. Our new approach just requires a device specification with a few parameters for automated GUI 
-tailoring in the course of design‐time generation from the same high‐level interaction design model. This tailoring is 
-implemented as heuristic optimization search. 
+Providing several GUIs tailored for multiple devices (desktop PCs, tablet PCs and smartphones) is desirable but expensive, and it takes time. Our new approach just requires a device specification with a few parameters for automated GUI tailoring in the course of design‐time generation from the same high‐level interaction design model. This tailoring is implemented as heuristic optimization search. 
 
-With increasing numbers of features in automotive systems, feature interaction (FI) becomes more and more relevant 
-regarding safety and emissions. Our new approach for optimization of feature interactions integrates an optimization 
-objective (minimize CO 2  emission) with both soft and hard constraints (e.g., related to certain temperatures). 
-In the 
-course of iterations of hill‐climbing optimization at run‐time, the integrating objective function is dynamically adapted 
-for heuristic coordination of FIs. 
+With increasing numbers of features in automotive systems, feature interaction (FI) becomes more and more relevant regarding safety and emissions. Our new approach for optimization of feature interactions integrates an optimization objective (minimize CO2  emission) with both soft and hard constraints (e.g., related to certain temperatures). In the course of iterations of hill‐climbing optimization at run‐time, the integrating objective function is dynamically adapted for heuristic coordination of FIs. 
 
-These approaches will be contrasted primarily in terms of the very different application domains and, more fundamen‐
-tally, regarding design‐time vs. run‐time optimization with their very different requirements.
+These approaches will be contrasted primarily in terms of the very different application domains and, more fundamentally, regarding design‐time vs. run‐time optimization with their very different requirements.
 
 <b>Biography:</b> 
-Hermann Kaindl joined the Institute of Computer Technology at TU Wien in Vienna, Austria, in early 2003 as a full professor. Prior to moving to academia, he was a senior consultant with the division of program and systems engineering 
-at  Siemens  Austria.  There  he  has  gained  more  than  24  years  of  industrial  experience  in  software  development  and 
-human‐computer interaction. He has published five books and more than 220 papers in refereed journals, books and 
-conference proceedings. He is a Senior Member of the IEEE and a Distinguished Scientist Member of the ACM, and he is 
-on the executive board of the Austrian Society for Artificial Intelligence. 
-In the past, Hermann Kaindl published his basic research on Heuristic Search in Artificial Intelligence in the AIJ, several 
-IEEE Transactions, and in many Conference Proceedings of IJCAIs, AAAIs and ECAIs
+Hermann Kaindl joined the Institute of Computer Technology at TU Wien in Vienna, Austria, in early 2003 as a full professor. Prior to moving to academia, he was a senior consultant with the division of program and systems engineering at  Siemens  Austria.  There he has gained more than 24 years of industria  experience in software development and human‐computer interaction. He has published five books and more than 220 papers in refereed journals, books and conference proceedings. He is a Senior Member of the IEEE and a Distinguished Scientist Member of the ACM, and he is on the executive board of the Austrian Society for Artificial Intelligence. In the past, Hermann Kaindl published his basic research on Heuristic Search in Artificial Intelligence in the AIJ, several IEEE Transactions, and in many Conference Proceedings of IJCAIs, AAAIs and ECAIs.
 
 ---
