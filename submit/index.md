@@ -6,9 +6,6 @@ title: "Call for Papers"
 
 <b>9th International Symposium on Search Based Software Engineering (SSBSE 2017)  
 co-located with ESEC/FSE'17 Paderborn, Germany, September 9-11, 2017   
-http://ssbse17.github.io </b>
-
-Submission site: <a href="https://easychair.org/conferences/?conf=ssbse2017" target="_blank">https://easychair.org/conferences/?conf=ssbse2017</a>
 
 ____
 
