@@ -1721,10 +1721,11 @@ margin-right:0}
 }
 @media (min-width: 40em){
 .archive{
-width:83.05085%;
-float:right;
+width:65.49152%;
+float:left;
 margin-right:0;
-padding-left:4.23729%}
+padding-left:4.23729%;
+padding-right:4.23729%}
 }
 
 .archive a{
@@ -1927,6 +1928,7 @@ width:40.67797%}
 margin:0 auto;
 width:57.62712%}
 }
+
 .sidebar{
 clear:both;
 margin-bottom:1em}
@@ -1974,6 +1976,57 @@ z-index:10}
 .sidebar__right{
 width:300px}
 }
+
+
+.sponsorbar{
+/*clear:both;*/
+margin-bottom:1em}
+.sponsorbar::after{
+/*clear:both;*/
+content:"";
+display:table}
+@media (min-width: 40em){
+.sponsorbar{
+width:15.25424%;
+float:right;
+margin-left:1.69492%;
+opacity:0.75;
+-webkit-transition:opacity 0.2s ease-in-out;
+transition:opacity 0.2s ease-in-out}
+.sponsorbar:hover{
+opacity:1}
+}
+@media (min-width: 80em){
+.sponsorbar{
+padding-right:0}
+}
+.sponsorbar h2,.sponsorbar h3,.sponsorbar h4,.sidebar h5,.sponsorbar h6{
+margin-bottom:0;
+font-family:-apple-system,".SFNSText-Regular","San Francisco","Roboto","Segoe UI","Helvetica Neue","Lucida Grande",Arial,sans-serif}
+.sponsorbar h3,.sponsorbar h4{
+font-size:1em}
+.sponsorbar p,.sponsorbar li{
+font-family:-apple-system,".SFNSText-Regular","San Francisco","Roboto","Segoe UI","Helvetica Neue","Lucida Grande",Arial,sans-serif;
+font-size:0.75em;
+line-height:1.5}
+.sponsorbar img{
+width:100%}
+.sponsorbar__right{
+margin-bottom:1em}
+@media (min-width: 64em){
+.sponsorbar__right{
+position:relative;
+float:right;
+width:200px;
+margin-left:2.54237%;
+z-index:10}
+}
+@media (min-width: 80em){
+.sponsorbar__right{
+width:300px}
+}
+
+
 .author__avatar{
 display:table-cell;
 vertical-align:top;

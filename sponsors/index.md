@@ -10,8 +10,8 @@ Interested in sponsoring SSBSE'17? Please, check our <a href="../sponsor_invitat
 
 <h1 style="color:#d4af37">Gold</h1>
 
-<img src="/images/adesso_logo.jpg">
+<a href="https://www.adesso.de/en/index.jsp" target="_blank"><img src="../images/adesso_logo.jpg"></a>
 
 <h1 style="color:#cd7f32">Bronze</h1><br>
 
-<img src="/images/crest_logo.png">
+<a href="http://crest.cs.ucl.ac.uk/about/" target="_blank"><img src="../images/crest_logo.png"></a>
