@@ -1721,11 +1721,11 @@ margin-right:0}
 }
 @media (min-width: 40em){
 .archive{
-width:65.49152%;
+width:57.49152%;
 float:left;
 margin-right:0;
-padding-left:4.23729%;
-padding-right:4.23729%}
+padding-left:4.23729%}
+/*padding-right:4.23729%}*/
 }
 
 .archive a{
@@ -1987,9 +1987,10 @@ content:"";
 display:table}
 @media (min-width: 40em){
 .sponsorbar{
-width:15.25424%;
+/*width:15.25424%;*/
+width:25%;
 float:right;
-margin-left:1.69492%;
+/*margin-left:1.69492%;*/
 opacity:0.75;
 -webkit-transition:opacity 0.2s ease-in-out;
 transition:opacity 0.2s ease-in-out}
