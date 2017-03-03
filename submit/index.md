@@ -18,6 +18,7 @@ TUTORIALS:
 
 - Tutorial Proposals                      February 14, 2017
 - Tutorials Selected                      February 28, 2017
+- To propose a tutorial, please email <a href="mailto:ssbse2017@easychair.org" target="_top">ssbse2017@easychair.org</a>
 
 RESEARCH PAPER TRACK:
 
@@ -25,14 +26,32 @@ RESEARCH PAPER TRACK:
 - Paper Submission                            April 7, 2017 
 - Notification                                     May 14, 2017
 - Camera Ready                                June 14, 2017
+- Submission site: <a href="https://easychair.org/conferences/?conf=ssbse2017" target="_blank">https://easychair.org/conferences/?conf=ssbse2017</a>
+
 
  SHORT PAPER, STUDENT AND SBSE CHALLENGE TRACKS:
 
  - Submission                                    May 21, 2017
  - Notification                                    June 7, 2017
- - Camera ready: TBD
+ - Camera ready:                                   June 17, 2017 
+ - Submission site: <a href="https://easychair.org/conferences/?conf=ssbse2017" target="_blank">https://easychair.org/conferences/?conf=ssbse2017</a>
 
-To propose a tutorial, please email <a href="mailto:ssbse2017@easychair.org" target="_top">ssbse2017@easychair.org</a>
+
+ STUDENT TRACKS:
+
+ - Submission                                    May 21, 2017
+ - Notification                                    June 7, 2017
+ - Camera ready:                                   June 17, 2017 
+ - Submission site: <a href="https://easychair.org/conferences/?conf=esecfse2017" target="_blank">https://easychair.org/conferences/?conf=esecfse2017</a>and select SSBSE 2017 Student Track
+
+ SBSE CHALLENGE TRACKS:
+
+ - Submission                                    May 21, 2017
+ - Notification                                    June 7, 2017
+ - Camera ready:                                   June 17, 2017 
+ - Submission site: <a href="https://easychair.org/conferences/?conf=esecfse2017" target="_blank">https://easychair.org/conferences/?conf=esecfse2017</a> and select SSBSE 2017 Challenge Track
+
+
 
 ____
 
