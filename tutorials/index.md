@@ -64,7 +64,7 @@ Benchmarking workshops at CEC 2015 and at GECCO 2013, 2015, and 2016.
 <b>Title: Optimization Search for GUIs and Cyber‐physical Systems</b>
 
 <b>Abstract:</b>
-This tutorial presents and contrasts two different optimization search approaches studied by this propose for automated GUI generation and for feature interactions in cyber‐physical automotive systems.  
+This tutorial presents and contrasts two different optimization search approaches studied by this proposer for automated GUI generation and for feature interactions in cyber‐physical automotive systems.  
 
 Providing several GUIs tailored for multiple devices (desktop PCs, tablet PCs and smartphones) is desirable but expensive, and it takes time. Our new approach just requires a device specification with a few parameters for automated GUI tailoring in the course of design‐time generation from the same high‐level interaction design model. This tailoring is implemented as heuristic optimization search. 
 
@@ -73,6 +73,6 @@ With increasing numbers of features in automotive systems, feature interaction (
 These approaches will be contrasted primarily in terms of the very different application domains and, more fundamentally, regarding design‐time vs. run‐time optimization with their very different requirements.
 
 <b>Biography:</b> 
-Hermann Kaindl joined the Institute of Computer Technology at TU Wien in Vienna, Austria, in early 2003 as a full professor. Prior to moving to academia, he was a senior consultant with the division of program and systems engineering at  Siemens  Austria.  There he has gained more than 24 years of industria  experience in software development and human‐computer interaction. He has published five books and more than 220 papers in refereed journals, books and conference proceedings. He is a Senior Member of the IEEE and a Distinguished Scientist Member of the ACM, and he is on the executive board of the Austrian Society for Artificial Intelligence. In the past, Hermann Kaindl published his basic research on Heuristic Search in Artificial Intelligence in the AIJ, several IEEE Transactions, and in many Conference Proceedings of IJCAIs, AAAIs and ECAIs.
+Hermann Kaindl joined the Institute of Computer Technology at TU Wien in Vienna, Austria, in early 2003 as a full professor. Prior to moving to academia, he was a senior consultant with the division of program and systems engineering at  Siemens  Austria.  There he has gained more than 24 years of industrial experience in software development and human‐computer interaction. He has published five books and more than 220 papers in refereed journals, books and conference proceedings, and he has previously run more than 50 tutorials. He is a Senior Member of the IEEE and a Distinguished Scientist Member of the ACM, and he is on the executive board of the Austrian Society for Artificial Intelligence. In the past, Hermann Kaindl published his basic research on Heuristic Search in Artificial Intelligence in the AIJ, several IEEE Transactions, and in many Conference Proceedings of IJCAIs, AAAIs and ECAIs.
 
 ---
