@@ -8,11 +8,7 @@ author_profile: true
 <a href="/images/flier.jpg"><img width=480 src="/images/flier.jpg"></a>
 
 
-<h3 class="archive__subtitle">{{ site.data.ui-text[site.locale].recent_posts }}</h3>
-
-{% for post in paginator.posts %}
-  {% include archive-single.html %}
-{% endfor %}
+{% twitter https://twitter.com/ssbse maxwidth=500 limit=5 %}
 
 {% include paginator.html %}
 
