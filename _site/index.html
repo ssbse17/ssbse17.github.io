@@ -256,13 +256,28 @@
     
       <h1 class="page__title"></h1>
     
-    
+    <script>window.twttr = (function(d, s, id) {
+     var js, fjs = d.getElementsByTagName(s)[0],
+         t = window.twttr || {};
+           if (d.getElementById(id)) return t;
+             js = d.createElement(s);
+               js.id = id;
+                 js.src = "https://platform.twitter.com/widgets.js";
+                   fjs.parentNode.insertBefore(js, fjs);
+
+                     t._e = [];
+                       t.ready = function(f) {
+                              t._e.push(f);
+                                };
+
+                                  return t;
+}(document, "script", "twitter-wjs"));</script>
+
+
 
 <a href="/images/flier.jpg"><img width=480 src="/images/flier.jpg"></a>
 
-
-<div class='jekyll-twitter-plugin'><a class="twitter-timeline" data-width="500" data-tweet-limit="5" href="https://twitter.com/ssbse">Tweets by ssbse</a>
-<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script></div>
+<a class="twitter-timeline" data-width="450" data-tweet-limit="5" href="https://twitter.com/ssbse">Tweets by ssbse</a> <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 
 
