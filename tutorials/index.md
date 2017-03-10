@@ -76,3 +76,17 @@ These approaches will be contrasted primarily in terms of the very different app
 Hermann Kaindl joined the Institute of Computer Technology at TU Wien in Vienna, Austria, in early 2003 as a full professor. Prior to moving to academia, he was a senior consultant with the division of program and systems engineering at  Siemens  Austria.  There he has gained more than 24 years of industrial experience in software development and human‐computer interaction. He has published five books and more than 220 papers in refereed journals, books and conference proceedings, and he has previously run more than 50 tutorials. He is a Senior Member of the IEEE and a Distinguished Scientist Member of the ACM, and he is on the executive board of the Austrian Society for Artificial Intelligence. In the past, Hermann Kaindl published his basic research on Heuristic Search in Artificial Intelligence in the AIJ, several IEEE Transactions, and in many Conference Proceedings of IJCAIs, AAAIs and ECAIs.
 
 ---
+
+<a href="http://staffwww.dcs.shef.ac.uk/people/G.Fraser/" target="_blank"><img src="../images/gordon.jpg" class="keynote_photo" width="200"></a>
+
+<center><h2>Dr. Gordon Fraser</h2></center> 
+
+<b>Title: Search-based unit test generation with EvoSuite</b>
+
+<b>Abstract:</b>
+EvoSuite automatically generates test cases with assertions for classes written in Java code, using a search-based approach that evolves whole test suites towards satisfying a coverage criterion. For the produced test suites, EvoSuite suggests possible oracles by adding small and effective sets of assertions that concisely summarize the current behavior; these assertions allow the developer to detect deviations from expected behavior, and to capture the current behavior in order to protect against future defects breaking this behaviour. In this tutorial, we will discuss how to use of the EvoSuite search-based test generation infrastructure to apply search-based test generation, and how to build on EvoSuite to develop new techniques using, or extending, search-based testing.
+
+<b>Biography:</b> 
+Gordon Fraser is a Senior Lecturer in Computer Science at the University of Sheffield, UK. He received his Ph.D. from Graz University of Technology, Austria, in 2007, and worked as a post-doc researcher at Saarland University, Germany. He has published on improving software quality and programmer productivity at all major software engineering venues (e.g., TSE, TOSEM, ICSE, ISSTA, FSE, ASE, ICST). He is chair of the steering committees of the International Conference on Software Testing, Verification, and Validation (ICST) and the Symposium on Search-Based Software Engineering (SSBSE). He has been programme chair of several testing-related conferences (ICST, TAP, TAIC PART, SSBSE) and workshops, is a regular member of many programme and organising committees in the field (e.g., ICSE, FSE, ASE, ISSTA), and is editorial board member of the IEEE Transactions on Software Engineering (TSE) and Software Testing, Verification, and Reliability (STVR) journals. He is a founder and one of the core developers of the EvoSuite search-based unit test generator.
+
+---
