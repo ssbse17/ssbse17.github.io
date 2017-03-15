@@ -6,6 +6,24 @@ title: "Program"
 
 ______
 
+## Outstanding keynotes 
+
+SSBSE'17 is proud to have Prof. Myra Cohen and Dr. Joachim Wegener as our keynote speakers. Make sure to check <a href="../keynotes" target="_blank">keynotes</a> page for details.
+
+______
+
+## Tutorials
+
+SSBSE'17 is going to host four <a href="../tutorials" target="_blank">tutorials</a> with a wide range of search-based software engineering material, including search algorithms foundations and applications to software engineering problems such as graphical interfaces and software testing.
+
+______
+
+## SSBSE Challenge
+
+The highly sucessful SSBSE challenge continues at SSBSE'17. Are you up for the task? Check our <a href="../challenge" target="_blank">challenge call</a> to see how you can apply and win up to <b>€1000</b>.
+
+______
+
 ## Journal-First Presentations at SSBSE'17
 
 SSBSE'17 is excited to present, for the first time in its history, _journal first publications_ at this conference. 
