@@ -9,7 +9,7 @@ title: "Tutorials"
  
 
 
-<a href="http://www.lcc.uma.es/~antonio/" target="_blank"><img src="../images/antonio.png" class="keynote_photo" width="200"></a>
+<a id="jMetal" href="http://www.lcc.uma.es/~antonio/" target="_blank"><img src="../images/antonio.png" class="keynote_photo" width="200"></a>
 
 <center><h2>Prof. Antonio J. Nebro</h2></center>
 
@@ -27,7 +27,7 @@ His H index is 30, and his papers have more than 3250 citations. He is one of th
 
 ---
 
-<a href="http://researchers.lille.inria.fr/~brockhof/" target="_blank"><img src="../images/dimo.jpg" class="keynote_photo" width="200"></a>
+<a id="benchmarking" href="http://researchers.lille.inria.fr/~brockhof/" target="_blank"><img src="../images/dimo.jpg" class="keynote_photo" width="200"></a>
 
 <center><h2>Dr. Dimo Brockhoff</h2></center>
 
@@ -57,7 +57,7 @@ Benchmarking workshops at CEC 2015 and at GECCO 2013, 2015, and 2016.
 
 ---
 
-<a href="http://www.ict.tuwien.ac.at/kaindl" target="_blank"><img src="https://chessprogramming.wikispaces.com/file/view/Kaindl_Hermann.jpg/321639194/Kaindl_Hermann.jpg" class="keynote_photo" width="200"></a>
+<a id="cyber_gui" href="http://www.ict.tuwien.ac.at/kaindl" target="_blank"><img src="https://chessprogramming.wikispaces.com/file/view/Kaindl_Hermann.jpg/321639194/Kaindl_Hermann.jpg" class="keynote_photo" width="200"></a>
 
 <center><h2>Dr. Hermann Kaindl</h2></center> 
 
@@ -77,7 +77,7 @@ Hermann Kaindl joined the Institute of Computer Technology at TU Wien in Vienna,
 
 ---
 
-<a href="http://staffwww.dcs.shef.ac.uk/people/G.Fraser/" target="_blank"><img src="../images/gordon.jpg" class="keynote_photo" width="200"></a>
+<a id="evosuite" href="http://staffwww.dcs.shef.ac.uk/people/G.Fraser/" target="_blank"><img src="../images/gordon.jpg" class="keynote_photo" width="200"></a>
 
 <center><h2>Dr. Gordon Fraser</h2></center> 
 

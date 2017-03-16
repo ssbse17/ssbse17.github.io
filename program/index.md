@@ -6,7 +6,13 @@ title: "Program"
 
 ______
 
-## Outstanding keynotes 
+## Technical Program
+
+TBD: abstract and paper submissions due March 31, April 7.
+
+______
+
+## Outstanding Keynotes 
 
 SSBSE'17 is proud to have Prof. Myra Cohen and Dr. Joachim Wegener as our keynote speakers. Make sure to check <a href="../keynotes" target="_blank">keynotes</a> page for details.
 
@@ -14,7 +20,7 @@ ______
 
 ## Tutorials
 
-SSBSE'17 is going to host four <a href="../tutorials" target="_blank">tutorials</a> with a wide range of search-based software engineering material, including search algorithms foundations and applications to software engineering problems such as graphical interfaces and software testing.
+SSBSE'17 is going to host four <a href="../tutorials" target="_blank">tutorials</a> with a wide range of search-based software engineering material, including an <a href="../tutorials/#jmetal" target="_blank">introduction to jMetal</a>, <a href="../tutorials/#benchmarking" target="_blank">multiobjective algorithms benchmarking</a>, <a href="../tutorials/#cyber_gui" target="_blank">GUI and cyber-physical systems optimization</a>, and <a href="../tutorials/#evosuite" target="_blank">unit test generation with EvoSuite</a>
 
 ______
 
@@ -44,3 +50,9 @@ Applying this criteria, the SSBSE'17 PC co-chairs selected the following papers 
 - Roberto E. Lopez-Herrejon, Lukas Linsbauer, and Alexander Egyed. 2015. <a href="https://doi.org/10.1016/j.infsof.2015.01.008" target="_blank">A systematic mapping study of search-based software engineering for software product lines</a>. Inf. Softw. Technol. 61, C (May 2015), 33-51. 
 
 - Michael Mohan, Des Greer, and Paul McMullan. <a href="http://dx.doi.org/10.1016/j.jss.2016.05.019" target="_blank">Technical debt reduction using search based automated refactoring</a>. Journal of Systems and Software 120 (2016): 183-194.
+
+______
+
+## Student Paper Track
+
+This track gives students the opportunity to showcase their SBSE research and receive feedback from senior members of the SBSE community. To be eligible, papers should be primarily the work of students that have not yet completed their studies. The papers may have co-authors who are not students but the student author is expected to present the paper at the symposium.
