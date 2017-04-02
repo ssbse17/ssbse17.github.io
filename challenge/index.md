@@ -56,6 +56,8 @@ SQLite is arguably the most popular database in the world. It is designed for ef
 
 Guava is a widely adopted and extensive Java collections library developed by Google. It includes over 252KLOC and its test suite includes a thorough set of performance tests.
 
+_Please note that Guava was also used in the SSBSE 2015 Challenge, and you should ensure that your work is not simply a duplication of previous effort. Details of that year's papers and presentations can be found in [the SSBSE 2015 programme](http://ssbse.org/2015/index1521.html?page_id=161)._
+
 <b>Flask</b>
 
 [http://flask.pocoo.org](http://flask.pocoo.org/)
