@@ -38,6 +38,8 @@ The criteria for paper acceptance are the following:
 
 Participants are invited to investigate and report upon one of the following open source projects. You are free to focus on any particular version or a comparison of different versions; you can also choose to analyse, test, improve, or apply any other SBSE-based activities to either parts or the whole of a project, including source code, documentation, or any other related resources (bug database, versioning histories, online discussions, etc) that can be found freely available online.
 
+A wiki with links for some artefacts of the challenge's systems is available <a href="https://github.com/mhepaixao/ssbse17_challenge_wiki" target="_blank">here<a/>. _Note that this wiki is being crowdsourced by challenge's enthusiasts and has not been officially validated by the challenge chairs._
+
 <b>LibreOffice</b>
 
 [https://www.libreoffice.org](https://www.libreoffice.org/)
