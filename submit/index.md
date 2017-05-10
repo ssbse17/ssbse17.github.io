@@ -115,23 +115,6 @@ Research and Student papers accepted for presentation at SSBSE 2017 will be cons
 Following from the conference, a selection of best papers will be invited to submit extended versions for tentative publication in a Special Section of the journal of Information and Software Technology published by Elsevier http://www.elsevier.com/locate/infsof.
 
 
-**Key Dates**
-
-RESEARCH PAPER TRACK:
-
-- Abstract submission                      March 31, 2017
-- Paper Submission                            April 7, 2017 
-- Notification                                     May 10, 2017
-- Camera Ready                                June 7, 2017
-
- 
-
- SHORT PAPER, STUDENT AND SBSE CHALLENGE TRACKS:
-
- - Submission                                    May 21, 2017
- - Notification                                    June 7, 2017
- - Camera ready: TBD
-
 
 
 **GENERAL INFORMATION AND FORMAT**
