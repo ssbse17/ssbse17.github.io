@@ -28,7 +28,7 @@ RESEARCH PAPER TRACK:
 
  SHORT PAPER TRACK:
 
- - Submission                                    May 18, 2017
+ - Submission                                    May 21, 2017
  - Notification                                    June 4, 2017
  - Camera ready:                                   June 11, 2017 
  - Submission site: <a href="https://easychair.org/conferences/?conf=ssbse2017" target="_blank">https://easychair.org/conferences/?conf=ssbse2017</a> and select the Student and Short Paper Track option
@@ -36,14 +36,14 @@ RESEARCH PAPER TRACK:
 
  STUDENT TRACK:
 
- - Submission                                    May 18, 2017
+ - Submission                                    May 21, 2017
  - Notification                                    June 4, 2017
  - Camera ready:                                   June 11, 2017 
   - Submission site: <a href="https://easychair.org/conferences/?conf=ssbse2017" target="_blank">https://easychair.org/conferences/?conf=ssbse2017</a> and select the Student and Short Paper Track option
 
  SBSE CHALLENGE TRACK:
 
- - Submission                                    May 18, 2017
+ - Submission                                    May 25, 2017
  - Notification                                    June 4, 2017
  - Camera ready:                                   June 11, 2017 
  - Submission site: <a href="https://easychair.org/conferences/?conf=ssbse2017challenge" target="_blank">https://easychair.org/conferences/?conf=ssbse2017challenge</a> 
