@@ -13,7 +13,7 @@ The SSBSE Challenge Track, held in coordination with the SSBSE Symposium, is an 
 
 Entrants will compete for <b>cash prizes totaling €1000</b>. Thanks to the [CREST Centre](http://crest.cs.ucl.ac.uk/) for their generous sponsorship of this competition.
 
-The deadline for submissions is <b>May 18th 2017</b>.
+The deadline for submissions is <b>May 25th 2017</b>.
 
 The winner will be announced at SSBSE 2017, which is collocated with FSE and will take place in Paderborn, Germany, Sept 9-11th 2017.
 
@@ -23,7 +23,7 @@ In order to participate, you should:
 
 - Focus your investigation on one of the selected programs (see below).
 - Report your findings in a six-page paper.
-- Submit the challenge paper on or before the deadline (May 18th, 2017).
+- Submit the challenge paper on or before the deadline (May 25th, 2017).
 - If your paper is accepted, present your findings at SSBSE 2017 in Paderborn, Germany, 9-11th September 2017.
 
 It is not mandatory for submissions to the SSBSE Challenge track to implement a new tool or technique. However, we do expect that applying your existing or new tools/techniques to one of the challenge programs lead to practically interesting results.
@@ -72,7 +72,7 @@ Your paper should describe your method and findings. It should provide a brief i
 
 ## Submission Details
 
-The papers must be at most 6 pages long in PDF format and should conform at time of submission to the SSBSE/Springer LNCS format and submission guidelines. They must not have been previously published, or be in consideration for, any journal, book, or other conference. Please submit your challenge paper to EasyChair on or before the Challenge track deadline (May 18th 2017). At least one author of each paper is expected to present the results at SSBSE 2017. Papers for the Challenge track are not required to follow the double blind restrictions. All accepted contributions will be published in the conference electronic proceedings.
+The papers must be at most 6 pages long in PDF format and should conform at time of submission to the SSBSE/Springer LNCS format and submission guidelines. They must not have been previously published, or be in consideration for, any journal, book, or other conference. Please submit your challenge paper to EasyChair on or before the Challenge track deadline (May 25th 2017). At least one author of each paper is expected to present the results at SSBSE 2017. Papers for the Challenge track are not required to follow the double blind restrictions. All accepted contributions will be published in the conference electronic proceedings.
 
 ## Further Information
 
