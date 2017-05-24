@@ -3,6 +3,9 @@ main:
   - title: "Submit"
     url: /submit
 
+  - title: "Register"
+    url: /registration
+
   - title: "Program"
     url: /program
 
