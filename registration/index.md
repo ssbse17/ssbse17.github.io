@@ -6,7 +6,7 @@ title: "Registration"
 
 Please note you do not need to enter a password unless you want to become a member of <a href="https://www.xing.com/" target="_top">xing.de</a>
 If you are attending both SSBSE 2017 and FSE/ESEC 2017 then please register for FSE/ESEC first to get a discount code. 
-No visa issues will be handeled by SSBSE please register for FSE/ESEC if you need a VISA. 
+If you need a VISA and are going to attend both SSBSE and FSE, please contact the FSE organisers.
 
 <br/>
 
