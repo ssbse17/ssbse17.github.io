@@ -4,9 +4,9 @@ author_profile: true
 title: "Registration"
 ---
 
-Please note you do not need to enter a password unless you want to become a member of <a href="https://www.xing.com/" target="_top">xing.de</a>
-If you are attending both SSBSE 2017 and FSE/ESEC 2017 then please register for FSE/ESEC first to get a discount code. 
-If you need a VISA and are going to attend both SSBSE and FSE, please contact the FSE organisers.
+If you are attending both SSBSE 2017 and FSE/ESEC 2017 then please register for <a href="http://esec-fse17.uni-paderborn.de/registration.php" target="_top">FSE/ESEC</a> first to get a discount code for SSBSE. 
+If you need a VISA support letter and are going to attend both SSBSE and FSE, please contact the FSE organisers (<a href="http://esec-fse17.uni-paderborn.de/visa_support.php" target="_top">FSE/ESEC Visa Support</a>).
+Please note you do not need to enter a password during the registration process unless you want to become a member of <a href="https://www.xing.com/" target="_top">xing.de</a>
 
 <br/>
 
