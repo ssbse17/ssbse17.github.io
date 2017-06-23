@@ -6,6 +6,8 @@ title: "Program"
 
 <link rel="stylesheet" href="../css/program.css">
 
+Note: Please bring your laptops for the tutorials.
+
 ## September 8, Friday
 
 <div class="container">
