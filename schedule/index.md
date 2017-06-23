@@ -225,7 +225,6 @@ title: "Program"
       <b>Tutorial 3:</b><br>
       <em>Prof. Gordon Fraser.</em> Search-based unit test generation with EvoSuite
       <br><br>
-      
    </div>
 </div>
 
