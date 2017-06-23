@@ -57,7 +57,7 @@ title: "Program"
    <div class="time_location">
       <b>11:00-12:30</b>
       <br><br>
-      Session Chair: TBD
+      
    </div>
 
    <div class="talks">
@@ -90,7 +90,7 @@ title: "Program"
       <b>Tutorial 1:</b><br>
       <em>Prof. Antonio J. Nebro.</em> Multi-objective optimization with the jMetal framework. Applications to SBSE
       <br><br>
-      <b>This is a hands-on tutorial (please bring your laptops!)</b>
+      
    </div>
 </div>
 
@@ -108,7 +108,7 @@ title: "Program"
    <div class="time_location">
       <b>16:00-17:30</b>
       <br><br>
-      Session Chair: TBD
+      
    </div>
 
    <div class="talks">
@@ -161,7 +161,7 @@ title: "Program"
    <div class="time_location">
       <b>11:00-12:30</b>
       <br><br>
-      Session Chair: TBD
+      
    </div>
 
    <div class="talks">
@@ -187,7 +187,7 @@ title: "Program"
    <div class="time_location">
       <b>14:00-15:30</b>
       <br><br>
-      Session Chair: TBD
+      
    </div>
 
    <div class="talks">
@@ -215,7 +215,7 @@ title: "Program"
    <div class="time_location">
       <b>16:00-17:30</b>
       <br><br>
-      Session Chair: TBD
+      
    </div>
 
    <div class="talks">
@@ -225,7 +225,7 @@ title: "Program"
       <b>Tutorial 3:</b><br>
       <em>Prof. Gordon Fraser.</em> Search-based unit test generation with EvoSuite
       <br><br>
-      <b>This is a hands-on tutorial (please bring your laptops!)</b>
+      
    </div>
 </div>
 
@@ -235,7 +235,7 @@ title: "Program"
    <div class="time_location">
       <b>09:00 - 10:30</b>
       <br><br>
-      Session Chair: TBD
+      
    </div>
 
    <div class="talks">
@@ -284,7 +284,7 @@ title: "Program"
    <div class="time_location">
       <b>14:00-15:30</b>
       <br><br>
-      Session Chair: TBD
+      
    </div>
 
    <div class="talks">
