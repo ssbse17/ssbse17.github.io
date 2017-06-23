@@ -1,13 +1,13 @@
 # main links links
 main:
-  - title: "Submit"
-    url: /submit
-
   - title: "Register"
     url: /registration
 
   - title: "Program"
     url: /program
+
+  - title: "Accepted Papers"
+    url: /accepted_papers
 
   - title: "Keynotes"
     url: /keynotes
@@ -29,3 +29,7 @@ main:
 
   - title: "Sponsors"
     url: /sponsors
+
+  - title: "Submit"
+    url: /submit
+
