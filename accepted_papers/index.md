@@ -27,7 +27,7 @@ title: "Accepted Papers"
 <li><em>Fitsum Kifetew, Denisse Muñante, Jesús Gorroñogoitia, Alberto Siena, Angelo Susi and Anna Perini.</em> Grammar Based Genetic Programming for Software Configuration Problem</li>
 <li><em>Jinhan Kim, Junhwi Kim and Shin Yoo.</em> GPGPGPU: Evaluation of Parallelisation of Genetic Programming using GPGPU</li>
 <li><em>Junhwi Kim, Byeonghyeon You, Minhyuk Kwon, Phil McMinn and Shin Yoo.</em> Evaluating CAVM: A New Search-Based Test Data Generation Tool for C</li>
-<li><em>Rebecca Swords, Eric Schulte and David Melski.</em> MuSynth: Program Synthesis via Code Reuse and Code Manipulation</li>
+<li><em>Vineeth Kashyap, Rebecca Swords, Eric Schulte and David Melski.</em> MuSynth: Program Synthesis via Code Reuse and Code Manipulation</li>
 </ul>
 
 ---
