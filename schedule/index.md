@@ -193,7 +193,7 @@ title: "Program"
    <div class="talks">
       <em>Jinhan Kim, Junhwi Kim and Shin Yoo.</em> GPGPGPU: Evaluation of Parallelisation of Genetic Programming using GPGPU
       <br><br>
-      <em>Rebecca Swords, Eric Schulte and David Melski.</em> MuSynth: Program Synthesis via Code Reuse and Code Manipulation
+      <em>Vineeth Kashyap, Rebecca Swords, Eric Schulte and David Melski.</em> MuSynth: Program Synthesis via Code Reuse and Code Manipulation
       <br><br>
       <em>Rasmus Ros, Elizabeth Bjarnason and Per Runeson.</em> Automated Controlled Experimentation on Software by Evolutionary Bandit Optimization
       <br><br>
