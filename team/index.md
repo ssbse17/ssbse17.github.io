@@ -146,7 +146,7 @@ title: "Team"
 <li><em><a href="http://staffwww.dcs.shef.ac.uk/people/G.Fraser/" target="_blank">Gordon Fraser</a></em> University of Sheffield, UK</li>
 <li><em><a href="https://www.sics.se/people/pasqualina-potena" target="_blank">Pasqualina Potena</a></em> SICS Swedish ICT, Sweden</li>
 <li><em><a href="http://www.din.uem.br/~teclopes/" target="_blank">Thelma E. Colanzi</a></em> State University of Maringa, Brazil</li>
-<li><em><a href="http://www.inf.ufg.br/node/183" target="_blank">Celso Camilo-Junior</a></em> Federal University of Goiás, Brazil</li>
+<li><em><a href="http://ic1.inf.ufg.br/site_celso/" target="_blank">Celso Camilo-Junior</a></em> Federal University of Goiás, Brazil</li>
 <li><em><a href="http://users.monash.edu.au/~aldeidaa/" target="_blank">Aldeida Aleti</a></em> Monash University, Australia</li>
 <li><em><a href="http://www.davidrwhite.co.uk/" target="_blank">David R. White</a></em> University College London, UK</li>
 <li><em><a href="http://www.simonpoulding.net/" target="_blank">Simon Poulding</a></em> Blekinge Institute of Technology, Sweden</li>

@@ -6,6 +6,9 @@ main:
   - title: "Program"
     url: /program
 
+  - title: "Schedule"
+    url: /schedule
+
   - title: "Accepted Papers"
     url: /accepted_papers
 
@@ -15,9 +18,6 @@ main:
   - title: "Tutorials"
     url: /tutorials
 
-  - title: "Challenge"
-    url: /challenge
-
   - title: "Venue"
     url: /venue
 
@@ -26,6 +26,9 @@ main:
 
   - title: "Team"
     url: /team
+
+  - title: "Challenge"
+    url: /challenge
 
   - title: "Sponsors"
     url: /sponsors
