@@ -49,3 +49,12 @@ title: "Accepted Papers"
 <li><em>Nasser Albunian, Vineeth Kashyap.</em> Diversity in Search-based Unit Test Suite Generation</li>
 <li><em>Rasmus Ros, Elizabeth Bjarnason and Per Runeson.</em> Automated Controlled Experimentation on Software by Evolutionary Bandit Optimization</li>
 </ul>
+
+---
+
+<h2 style="text-align: left;" markdown="1">Journal First</h2>
+
+<ul>
+<li><em>Roberto E. Lopez-Herrejon, Lukas Linsbauer, and Alexander Egyed. </em> A systematic mapping study of search-based software engineering for software product lines. From Information and Software Technology, 2015</li>
+<li><em>Michael Mohan, Des Greer, and Paul McMullan.</em> Technical debt reduction using search based automated refactoring. From Journal of Systems and Software, 2016</li>
+</ul>

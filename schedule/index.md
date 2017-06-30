@@ -226,7 +226,7 @@ title: "Program"
 
    <div class="talks">
       <b>Journal First 2:</b><br>
-      <em>Mohan, Michael, Des Greer, and Paul McMullan.</em> Technical debt reduction using search based automated refactoring. From Journal of Software and Systems, 2016
+      <em>Michael Mohan, Des Greer, and Paul McMullan.</em> Technical debt reduction using search based automated refactoring. From Journal of Systems and Software, 2016
       <br><br>
       <b>Tutorial 3:</b><br>
       <em>Prof. Gordon Fraser.</em> Search-based unit test generation with EvoSuite
