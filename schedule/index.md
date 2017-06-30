@@ -1,22 +1,26 @@
 ---
 layout: archive_smaller_font
 author_profile: true
-title: "Program"
+title: "Schedule"
 ---
 
 <link rel="stylesheet" href="../css/program.css">
 
 <div class="container">
   <div class="talks">
-    Note: Please bring your laptops for the tutorials.
+    <b>Note: Please bring your laptops for the tutorials.</b>
   </div>
 </div>
+
+Please, check our <a href="../map" target="_blank">map</a> for the conference building, lunch and reception.
 
 ## September 8, Friday
 
 <div class="container">
    <div class="time_location">
       <b>19:00</b>
+      <br><br>
+      <em>Open Meadow</em>
    </div>
 
    <div class="talks">
@@ -52,6 +56,8 @@ title: "Program"
 <div class="container">
    <div class="time_location">
       <b>10:30-11:00</b>
+      <br><br>
+      <em>Room F0.550<br> Main Floor</em>
    </div>
 
    <div class="talks">
@@ -80,6 +86,8 @@ title: "Program"
 <div class="container">
    <div class="time_location">
       <b>12:30-14:00</b>
+      <br><br>
+      <em>Studentenwerk Paderborn Bistro</em>
    </div>
 
    <div class="talks">
@@ -103,6 +111,8 @@ title: "Program"
 <div class="container">
    <div class="time_location">
       <b>15:30-16:00</b>
+      <br><br>
+      <em>Room F0.550<br> Main Floor</em>
    </div>
 
    <div class="talks">
@@ -131,6 +141,8 @@ title: "Program"
 <div class="container">
    <div class="time_location">
       <b>19:00</b>
+      <br><br>
+      <em>Paderborner Brauhaus</em>
    </div>
 
    <div class="talks">
@@ -156,6 +168,8 @@ title: "Program"
 <div class="container">
    <div class="time_location">
       <b>10:30-11:00</b>
+      <br><br>
+      <em>Room F0.550<br> Main Floor</em>
    </div>
 
    <div class="talks">
@@ -182,6 +196,8 @@ title: "Program"
 <div class="container">
    <div class="time_location">
       <b>12:30-14:00</b>
+      <br><br>
+      <em>Studentenwerk Paderborn Bistro</em>
    </div>
 
    <div class="talks">
@@ -210,6 +226,8 @@ title: "Program"
 <div class="container">
    <div class="time_location">
       <b>15:30-16:00</b>
+      <br><br>
+      <em>Room F0.550<br> Main Floor</em>
    </div>
 
    <div class="talks">
@@ -257,6 +275,8 @@ title: "Program"
 <div class="container">
    <div class="time_location">
       <b>10:30-11:00</b>
+      <br><br>
+      <em>Room F0.550<br> Main Floor</em>
    </div>
 
    <div class="talks">
@@ -278,6 +298,8 @@ title: "Program"
 <div class="container">
    <div class="time_location">
       <b>12:30-14:00</b>
+      <br><br>
+      <em>Studentenwerk Paderborn Bistro</em>
    </div>
 
    <div class="talks">
