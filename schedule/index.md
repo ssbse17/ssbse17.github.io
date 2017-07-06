@@ -189,7 +189,7 @@ Please, check our <a href="../map" target="_blank">map</a> for the conference bu
       <em>Roberto E. Lopez-Herrejon, Lukas Linsbauer, and Alexander Egyed. </em> A systematic mapping study of search-based software engineering for software product lines. From Information and Software Technology, 2015
       <br><br>
       <b>Tutorial 2:</b><br>
-      <em>Prof. Hermann Kaindl.</em> Optimization Search for GUIs and Cyber‐physical Systems
+       <em>Prof. Gordon Fraser.</em> Search-based unit test generation with EvoSuite
    </div>
 </div>
 
@@ -247,7 +247,7 @@ Please, check our <a href="../map" target="_blank">map</a> for the conference bu
       <em>Michael Mohan, Des Greer, and Paul McMullan.</em> Technical debt reduction using search based automated refactoring. From Journal of Systems and Software, 2016
       <br><br>
       <b>Tutorial 3:</b><br>
-      <em>Prof. Gordon Fraser.</em> Search-based unit test generation with EvoSuite
+      <em>Prof. Hermann Kaindl.</em> Optimization Search for GUIs and Cyber‐physical Systems
       <br><br>
    </div>
 </div>
