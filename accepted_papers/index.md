@@ -15,7 +15,7 @@ title: "Accepted Papers"
 <li><em>Byron Devries and Betty Cheng.</em> Automatic Detection of Incomplete Requirements using Symbolic Analysis and Evolutionary Computation</li>
 <li><em>Gregory Gay.</em> Generating Effective Test Suites by Combining Coverage Criteria</li>
 <li><em>Annibale Panichella, Fitsum Meshesha Kifetew and Paolo Tonella.</em> LIPS vs MOSA: a Replicated Empirical Study on Automated Test Case Generation</li>
-<li><em>Christopher Steven Timperley, Claire Le Goues and Susan Stepney.</em> An Investigation into the Use of Mutation Analysis for Automated Program Repair</li>
+<li><em>Christopher Steven Timperley, Susan Stepney and Claire Le Goues.</em> An Investigation into the Use of Mutation Analysis for Automated Program Repair</li>
 </ul>
 
 ---
