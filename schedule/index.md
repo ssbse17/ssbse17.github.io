@@ -79,7 +79,7 @@ Please, check our <a href="../map" target="_blank">map</a> for the conference bu
       <br><br>
       <em>Byron Devries and Betty Cheng.</em> Automatic Detection of Incomplete Requirements using Symbolic Analysis and Evolutionary Computation
       <br><br>
-      <em>Fitsum Kifetew, Denisse Muñante, Jesús Gorroñogoitia, Alberto Siena, Angelo Susi and Anna Perini.</em> Grammar Based Genetic Programming for Software Configuration Problem
+      <em>Fitsum Meshesha Kifetew, Denisse Muñante, Jesús Gorroñogoitia, Alberto Siena, Angelo Susi and Anna Perini.</em> Grammar Based Genetic Programming for Software Configuration Problem
    </div>
 </div>
 
