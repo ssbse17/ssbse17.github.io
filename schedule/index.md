@@ -219,7 +219,7 @@ Please, check our <a href="../map" target="_blank">map</a> for the conference bu
       <br><br>
       <em>Rasmus Ros, Elizabeth Bjarnason and Per Runeson.</em> Automated Controlled Experimentation on Software by Evolutionary Bandit Optimization
       <br><br>
-      <em>Nasser Albunian, Vineeth Kashyap.</em> Diversity in Search-based Unit Test Suite Generation
+      <em>Nasser Albunian.</em> Diversity in Search-based Unit Test Suite Generation
    </div>
 </div>
 
