@@ -46,7 +46,7 @@ title: "Accepted Papers"
 <h2 style="text-align: left;" markdown="1">Student Papers</h2>
 
 <ul>
-<li><em>Nasser Albunian, Vineeth Kashyap.</em> Diversity in Search-based Unit Test Suite Generation</li>
+<li><em>Nasser Albunian.</em> Diversity in Search-based Unit Test Suite Generation</li>
 <li><em>Rasmus Ros, Elizabeth Bjarnason and Per Runeson.</em> Automated Controlled Experimentation on Software by Evolutionary Bandit Optimization</li>
 </ul>
 
