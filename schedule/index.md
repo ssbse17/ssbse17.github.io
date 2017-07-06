@@ -315,7 +315,7 @@ Please, check our <a href="../map" target="_blank">map</a> for the conference bu
    </div>
 
    <div class="talks">
-      <em>Christopher Steven Timperley, Claire Le Goues and Susan Stepney.</em> An Investigation into the Use of Mutation Analysis for Automated Program Repair
+      <em>Christopher Steven Timperley, Susan Stepney and Claire Le Goues.</em> An Investigation into the Use of Mutation Analysis for Automated Program Repair
       <br><br>
       <em>Elias Khalil, Mustafa Assaf and Abdel Salam Sayyad.</em> Human Resource Optimization for Bug Fixing: Balancing Short-Term and Long-Term Objectives
       <br><br>
