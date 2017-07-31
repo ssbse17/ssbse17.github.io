@@ -4,7 +4,6 @@ author_profile: true
 title: "Conference Venue"
 ---
 
-SSBSE 2017 will take place in Paderborn, Germany. Paderborn is a city in eastern North Rhine-Westphalia, Germany. The city combines over 1,200 years of history with high-tech research and industry. Paderborn was once the oldest academic site in Westphalia. The Paderborn University was founded in 1614 by the Jesuits, but was closed in 1819. It was re-founded in 1972. Today, it is attended by about 20,000 students. Paderborn will offer you a fascinating mixture worth seeing.
 
 The conference will be held in the <a href="https://www.hni.uni-paderborn.de/en/headernavigation/contact-us/" target="_blank">Heinz Nixdorf Institute</a> next to the world's largest computer museum: the Heinz Nixdorf MuseumsForum. 
 In the Heinz Nixdorf Institute the conference will be held in room F0.530 on the main floor and in room F1.110 on the first floor. 
@@ -16,8 +15,13 @@ Fürstenallee 11,<br>
 33102 Paderborn,<br> 
 Germany
 				
+Please, check our map for the conference building, lunch and reception as follows.
+
+![image-rathaus](/images/map.jpg){: .align-center}
 
 ### Region of Eastern Westphalia (Ostwestfalen-Lippe)
+
+SSBSE 2017 will take place in Paderborn, Germany. Paderborn is a city in eastern North Rhine-Westphalia, Germany. The city combines over 1,200 years of history with high-tech research and industry. Paderborn was once the oldest academic site in Westphalia. The Paderborn University was founded in 1614 by the Jesuits, but was closed in 1819. It was re-founded in 1972. Today, it is attended by about 20,000 students. Paderborn will offer you a fascinating mixture worth seeing.
 
 The region is situated at the heart of Germany and Europe. There are fast road links in all directions, with the A2, A30 and A44 highways running east to west and the A7 and A1 offering connections to the north and south. With an intercity rail station in Bielefeld and an airport in Paderborn, OWL is also well-connected to local public transport.
 

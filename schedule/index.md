@@ -12,7 +12,9 @@ title: "Schedule"
   </div>
 </div>
 
-Please, check our <a href="../map" target="_blank">map</a> for the conference building, lunch and reception.
+Please, check our <a href="../venue" target="_blank">map</a> for the conference building, lunch and reception.
+
+Colour-coded schedule available <a href="../images/coloured_schedule.pdf" target="_blank">here</a>
 
 ## September 8, Friday
 
