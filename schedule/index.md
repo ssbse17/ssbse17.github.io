@@ -33,6 +33,8 @@ Please, check our <a href="../map" target="_blank">map</a> for the conference bu
 <div class="container">
    <div class="time_location">
       <b>08:45 - 09:00</b>
+      <br><br>
+      <em>Room F1.110</em>
    </div>
 
    <div class="talks">
@@ -43,6 +45,10 @@ Please, check our <a href="../map" target="_blank">map</a> for the conference bu
 <div class="container">
    <div class="time_location">
       <b>09:00 - 10:30</b>
+      <br><br>
+      <em>Room F1.110</em>
+      <br><br>
+      <b>Session Chair:</b> Justyna Petke
    </div>
 
    <div class="talks">
@@ -69,6 +75,9 @@ Please, check our <a href="../map" target="_blank">map</a> for the conference bu
    <div class="time_location">
       <b>11:00-12:30</b>
       <br><br>
+      <em>Room F1.110</em>
+      <br><br>
+      <b>Session Chair:</b> Gordon Fraser
       
    </div>
 
@@ -98,6 +107,10 @@ Please, check our <a href="../map" target="_blank">map</a> for the conference bu
 <div class="container">
    <div class="time_location">
       <b>14:00-15:30</b>
+      <br><br>
+      <em>Room F1.110</em>
+      <br><br>
+      <b>Session Chair:</b> Gregory Gay
    </div>
 
    <div class="talks">
@@ -124,6 +137,9 @@ Please, check our <a href="../map" target="_blank">map</a> for the conference bu
    <div class="time_location">
       <b>16:00-17:30</b>
       <br><br>
+      <em>Room F1.110</em>
+      <br><br>
+      <b>Session Chair:</b> David R. White
       
    </div>
 
@@ -155,6 +171,10 @@ Please, check our <a href="../map" target="_blank">map</a> for the conference bu
 <div class="container">
    <div class="time_location">
       <b>09:00 - 10:30</b>
+      <br><br>
+      <em>Room F1.110</em>
+      <br><br>
+      <b>Session Chair:</b> Lars Grunke
    </div>
 
    <div class="talks">
@@ -181,6 +201,9 @@ Please, check our <a href="../map" target="_blank">map</a> for the conference bu
    <div class="time_location">
       <b>11:00-12:30</b>
       <br><br>
+      <em>Room F1.110</em>
+      <br><br>
+      <b>Session Chair:</b> Andrea Arcuri
       
    </div>
 
@@ -209,6 +232,9 @@ Please, check our <a href="../map" target="_blank">map</a> for the conference bu
    <div class="time_location">
       <b>14:00-15:30</b>
       <br><br>
+      <em>Room F1.110</em>
+      <br><br>
+      <b>Session Chair:</b> Claire Le Goues
       
    </div>
 
@@ -239,6 +265,9 @@ Please, check our <a href="../map" target="_blank">map</a> for the conference bu
    <div class="time_location">
       <b>16:00-17:30</b>
       <br><br>
+      <em>Room F1.110</em>
+      <br><br>
+      <b>Session Chair:</b> Uwe Pohlmann
       
    </div>
 
@@ -258,6 +287,9 @@ Please, check our <a href="../map" target="_blank">map</a> for the conference bu
    <div class="time_location">
       <b>09:00 - 10:30</b>
       <br><br>
+      <em>Room F1.110</em>
+      <br><br>
+      <b>Session Chair:</b> Tim Menzies
       
    </div>
 
@@ -287,6 +319,10 @@ Please, check our <a href="../map" target="_blank">map</a> for the conference bu
 <div class="container">
    <div class="time_location">
       <b>11:00-12:30</b>
+      <br><br>
+      <em>Room F1.110</em>
+      <br><br>
+      <b>Session Chair:</b> José Miguel Rojas
    </div>
 
    <div class="talks">
@@ -311,6 +347,9 @@ Please, check our <a href="../map" target="_blank">map</a> for the conference bu
    <div class="time_location">
       <b>14:00-15:30</b>
       <br><br>
+      <em>Room F1.110</em>
+      <br><br>
+      <b>Session Chair:</b> Matheus Paixao
       
    </div>
 
