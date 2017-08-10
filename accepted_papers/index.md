@@ -10,7 +10,7 @@ title: "Accepted Papers"
 
 <ul>
 <li><em>Andrea Arcuri.</em> Many Independent Objective (MIO) Algorithm for Test Suite Generation</li>
-<li><em>Matteo Biagiola, Paolo Tonella and Filippo Ricca.</em> Search Based Path and Input Data Generation for Web Application Testing</li>
+<li><em>Matteo Biagiola, Filippo Ricca and Paolo Tonella.</em> Search Based Path and Input Data Generation for Web Application Testing</li>
 <li><em>José Campos, Yan Ge, Gordon Fraser, Marcelo Eler and Andrea Arcuri.</em> An Empirical Evaluation of Evolutionary Algorithms for Test Suite Generation</li>
 <li><em>Byron Devries and Betty Cheng.</em> Automatic Detection of Incomplete Requirements using Symbolic Analysis and Evolutionary Computation</li>
 <li><em>Gregory Gay.</em> Generating Effective Test Suites by Combining Coverage Criteria</li>
