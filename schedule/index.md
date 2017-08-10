@@ -84,7 +84,7 @@ Colour-coded schedule available <a href="../images/coloured_schedule.pdf" target
    </div>
 
    <div class="talks">
-      <em>Matteo Biagiola, Paolo Tonella and Filippo Ricca.</em> Search Based Path and Input Data Generation for Web Application Testing
+      <em>Matteo Biagiola, Filippo Ricca and Paolo Tonella.</em> Search Based Path and Input Data Generation for Web Application Testing
       <br><br>
       <em>Gregory Gay.</em> Generating Effective Test Suites by Combining Coverage Criteria
       <br><br>
