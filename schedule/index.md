@@ -236,7 +236,7 @@ Colour-coded schedule available <a href="../images/coloured_schedule.pdf" target
       <br><br>
       <em>Room F1.110</em>
       <br><br>
-      <b>Session Chair:</b> Claire Le Goues
+      <b>Session Chair:</b> Christopher Timperley
       
    </div>
 
