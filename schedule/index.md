@@ -183,7 +183,7 @@ Colour-coded schedule available <a href="../images/coloured_schedule.pdf" target
       <b>Keynote 2:</b><br>
       <em>Dr. Joachim Wegener.</em> Industrial Applications of Evolutionary Testing.<br>
       <br>
-      <b>Steering Committee elections</b>
+      <b>Steering Committee pitches for elections</b>
    </div>
 </div>
 
@@ -227,6 +227,18 @@ Colour-coded schedule available <a href="../images/coloured_schedule.pdf" target
 
    <div class="talks">
       Lunch
+   </div>
+</div>
+
+<div class="container">
+   <div class="time_location">
+      <b>13:00-14:00</b>
+      <br><br>
+      <em>Room F0.550</em>
+   </div>
+
+   <div class="talks">
+      Steering Committee Meeting
    </div>
 </div>
 
