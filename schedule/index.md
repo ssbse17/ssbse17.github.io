@@ -20,9 +20,20 @@ Colour-coded schedule available <a href="../images/coloured_schedule.pdf" target
 
 <div class="container">
    <div class="time_location">
+      <b>18:30</b>
+      <br><br>
+      <em>Room F0.550<br> Main Floor</em>
+   </div>
+
+   <div class="talks">
+      Registration
+   </div>
+</div>
+<div class="container">
+   <div class="time_location">
       <b>19:00</b>
       <br><br>
-      <em>Open Meadow</em>
+      <em>Open Meadow behind the Heinz Nixdorf Institute Building</em>
    </div>
 
    <div class="talks">
@@ -32,6 +43,17 @@ Colour-coded schedule available <a href="../images/coloured_schedule.pdf" target
 
 ## September 9, Saturday
 
+<div class="container">
+   <div class="time_location">
+      <b>8:15</b>
+      <br><br>
+      <em>Room F0.550<br> Main Floor</em>
+   </div>
+
+   <div class="talks">
+      Registration
+   </div>
+</div>
 <div class="container">
    <div class="time_location">
       <b>08:45 - 09:00</b>
