@@ -64,6 +64,4 @@ title: "Photos"
 
 ![image-center](/images/day3/image009.jpeg){: .align-center}
 
-![image-center](/images/day3/image010.jpeg){: .align-center}
-
 ![image-center](/images/day3/image011.jpeg){: .align-center}
