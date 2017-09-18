@@ -62,7 +62,8 @@ Colour-coded schedule available <a href="../images/coloured_schedule.pdf" target
    </div>
 
    <div class="talks">
-      Welcome from the conference organisers
+      Welcome from the conference organisers<br>
+      In Memoriam - <a href="http://www.cs.ubc.ca/labs/beta/Projects/ParamILS/">Simon Poulding</a>
    </div>
 </div>
 
