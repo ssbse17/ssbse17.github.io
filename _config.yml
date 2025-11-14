@@ -11,7 +11,8 @@ title                    : "SSBSE'17"
 title_separator          : "-"
 name                     : "SSBSE"
 description              : "The SSBSE is the premier international research symposium on Search-based Software Engineering."
-url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : "https://ssbse17.github.io"
+baseurl                  : ""
 baseurl                  : # the subpath of your site, e.g. "/blog"
 gh_repo                  :
 teaser                   : # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
@@ -157,7 +158,7 @@ timezone: # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
 
 # Plugins
-gems:
+plugins:
   - jekyll-paginate
   - jekyll-sitemap
   - jekyll-gist
